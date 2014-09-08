@@ -1,0 +1,28 @@
+---
+title: Archives
+---
+
+h3.bold
+  span.fa-stack
+    i.fa.fa-circle.fa-stack-2x
+    i.fa.fa-book.fa-stack-1x.fa-inverse
+  | &nbsp;Archives
+
+.table-responsive
+  table.table
+    table.table.table-bordered.table-hover.table-striped
+      thead
+        th.center style="width: 75px;" #
+        th style="width: 225px;" 日時
+        th style="width: 225px;" init.el
+        th ログ
+      tbody
+        - data.archives.each do |archive|
+          - t = Time.parse data.next[0].date
+          tr
+            td.center #{archive.id}
+            td #{t.strftime "%Y/%m/%d(#{%w( 日 月 火 水 木 金 土 )[t.wday]}) %H:%M" }～
+            td
+              = link_to archive.author.name, archive.author.url, target: :_blank
+              | &nbsp;さん
+            td 準備中

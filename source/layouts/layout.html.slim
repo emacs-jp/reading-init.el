@@ -1,0 +1,50 @@
+doctype html
+html
+  head
+    meta charset="utf-8"
+    meta name="viewport" content="width=device-width, initial-scale=1"
+    /! Always force latest IE rendering engine or request Chrome Frame
+    meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"
+    /! Use title if it's in the page YAML frontmatter
+    title #{data.page.title} | init.el読書会
+
+    link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/lumen/bootstrap.min.css" rel="stylesheet"
+    link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"
+    link href="http://fonts.googleapis.com/css?family=Exo:400,600,800" rel="stylesheet"
+    = stylesheet_link_tag 'style'
+
+  body class="#{page_classes}"
+    nav.navbar.navbar-default.navbar-fixed-top role="navigation"
+      .container
+        .navbar-header
+          button.navbar-toggle type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+            span.sr-only Toggle navigation
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          = link_to 'Reading init.el', '/index.html', class: 'navbar-brand exo exo-brand'
+
+        .collapse.navbar-collapse id="bs-example-navbar-collapse-1"
+          ul.nav.navbar-nav
+            li.exo.exo-bold
+              = link_to '/about.html' do
+                i.fa.fa-fw.fa-question
+                | About
+            li.exo.exo-bold
+              = link_to '/archives.html' do
+                i.fa.fa-fw.fa-book
+                | Archives
+
+    .container
+      = yield
+
+    footer
+      .container
+        p
+          | &copy;&nbsp;
+          = link_to 'Emacs JP', 'http://emacs-jp.github.io/', target: :_blank
+          | &nbsp;with help from&nbsp;
+          = link_to 'Middleman', 'http://middlemanapp.com/jp/', target: :_blank
+          | &nbsp;and&nbsp;
+          = link_to 'Bootstrap', 'http://getbootstrap.com/', target: :_blank
+          | .
