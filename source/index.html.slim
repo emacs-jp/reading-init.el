@@ -1,8 +1,32 @@
 ---
-title: Welcome to Middleman
+title: Top
 ---
 
-.welcome
-  h1 Middleman is Watching
-  p.doc
-    == link_to "Read Online Documentation", "http://middlemanapp.com/"
+.masthead
+  .row
+    .col-md-offset-1.col-md-3
+      = image_tag 'emacs-jp.png', alt: 'emacs-jp.png', height: '120px', class: 'hidden-sm hidden-xs'
+    .col-md-8
+      h1.exo.exo-bold Reading init.el
+      h3.bold init.el読書会
+
+.panel.panel-default
+  .panel-heading
+    h4.panel-title.bold 次回予告
+  .panel-body
+    p
+      strong 第#{data.next[0].id}回 init.el読書会
+    ul.fa-ul
+      li
+        i.fa-li.fa.fa-calendar
+        - t = Time.parse data.next[0].date
+        | 日時：#{t.strftime "%Y/%m/%d(#{%w( 日 月 火 水 木 金 土 )[t.wday]}) %H:%M" }～
+      li
+        i.fa-li.fa.fa-map-marker
+        | 場所：
+        = link_to 'LingrのEmacs部屋', 'http://lingr.com/room/emacs/', target: :_blank
+      li
+        i.fa-li.fa.fa-user
+        | init.el：
+        = link_to data.next[0].author.name, data.next[0].author.url, target: :_blank
+        | &nbsp;さん

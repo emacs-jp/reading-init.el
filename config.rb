@@ -73,4 +73,7 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+
+  set :relative_links, true
+  activate :asset_host, host: '/reading-init.el'
 end

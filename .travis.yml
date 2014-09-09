@@ -1,0 +1,31 @@
+---
+language: ruby
+rvm: 2.1.2
+before_script:
+  - '[ "$TRAVIS_BRANCH" == "master" ] && [ "$GH_TOKEN" ] && rake setup > /dev/null'
+script: rake build
+after_success:
+  - '[ "$TRAVIS_BRANCH" == "master" ] && [ "$GH_TOKEN" ] && rake publish > /dev/null'
+
+env:
+  global:
+    - secure: |-
+        MoJQbZW4xIGz3nyd86ZPFmi8BWwjSxEJaVtdCwsoUvVU3eaEMkO/aMQZ2nZj
+        AAKnZxGG0Ypf+6TYY3ruMBtW8M50TyR9EumB8xEuDM0tsgyx5GwitFOs2CZU
+        Kg2LY17cqn64vcUxYZz3SC1C5e+eloaN7+sAWKcUoRCyMoZU2uo=
+    - secure: |-
+        k3jdcOsCS+INpNb2p/+SOZL1wLSZ5hsxU97P/yVzbGLG8o5Ef24ZYcQ93bDY
+        3K2K+ljNi0dbG+HvW2IlhtyhaDv6ZzQeMEzxe/mOereEr4F4h99str5zrler
+        jr0CHY2tZE+WWWD4uZWkxKcawu6a9eoJ+Cxp68xEifOtrqHBimI=
+    - secure: |-
+        RmqSasmCVkcKZukGow7G/4rQVYbOcc+n7FUpI48Ah9ID+bXDDj+KxVvdo+b8
+        1R4IVTYgQ9gsQWyiMInTE/0VVaBaLbmVb5naLJxlUFqafKZIXwZAdrwQNTOw
+        h/TgELG4/jTZBKNmcAvcwFqEBWY4JZapygAJF3HOXxJyh6eGJNo=
+    - secure: |-
+        huTcQhoiGv8y42I/663ZoBihKXjkUyEkEEwdMu5pjxahaujxMx+2fNhbdBtO
+        H1p2AOnZjst41/yfSyUR4ca1qELrv/irIdIF5iWuAqN1iFpNecmD30YUKB2M
+        k75J060oMYMVRFIHDQ4EB197k43gSdACqBxLfANHKeYGqwGQ7Ss=
+    - secure: |-
+        ECnBIt6LRQCfJQomEOBe56KWNZSK6PVrtQYgYsGUFuFSTj/wVStb7Hb757Vx
+        PNz+juLWUzJ41G1qwphoJ+mOa2j+nQQfKZL/gpfSH7VdyvObvsCAho/Izi/H
+        U1JXp+G2mREHtFOXUvG6YSZYxWwaqpLadM7oZO6d3el75fA8vHo=
