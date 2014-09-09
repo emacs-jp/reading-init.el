@@ -29,11 +29,15 @@ html
             li.exo.exo-bold
               = link_to '/about.html' do
                 i.fa.fa-fw.fa-question
-                | About
+                | &nbsp;About
             li.exo.exo-bold
               = link_to '/archives.html' do
                 i.fa.fa-fw.fa-book
-                | Archives
+                | &nbsp;Archives
+            li.exo.exo-bold
+              = link_to 'https://github.com/emacs-jp/reading-init.el/wiki/Request', target: :_blank do
+                i.fa.fa-fw.fa-list
+                | &nbsp;Request
 
     .container
       = yield
