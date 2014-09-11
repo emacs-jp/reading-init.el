@@ -15,7 +15,8 @@ h3.bold
         th.center style="width: 75px;" #
         th style="width: 225px;" 日時
         th style="width: 225px;" init.el
-        th ログ
+        th style="width: 150px;" ログ
+        th リンク
       tbody
         - data.archives.each do |archive|
           - t = Time.parse data.next[0].date
@@ -27,3 +28,6 @@ h3.bold
               | &nbsp;さん
             td
               = link_to 'Lingrのログ', archive.log.url, target: :_blank
+            td
+              - if archive.link
+                = link_to archive.link.name, archive.link.url, target: :_blank
