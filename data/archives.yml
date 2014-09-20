@@ -16,3 +16,10 @@
     url: https://github.com/yoshitia/.emacs.d/tree/4459b277a5
   log:
     url: http://lingr.com/room/emacs/archives/2014/09/13#message-20185143
+- id: 3
+  date: 2014-09-20 22:00
+  author:
+    name: gongo
+    url: https://github.com/gongo/elfactory/tree/692f342777
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/09/20#message-20234077
