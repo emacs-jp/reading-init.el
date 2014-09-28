@@ -1,24 +1,14 @@
 ---
-- id: 1
-  date: 2014-09-06 22:00
+- id: 4
+  date: 2014-09-27 22:00
   author:
-    name: hico_horiuchi
-    url: https://github.com/hico-horiuchi/dotemacs/tree/45715f80da
+    name: handlename
+    url: https://github.com/handlename/dot-emacs/tree/889519f6a3
   log:
-    url: http://lingr.com/room/emacs/archives/2014/09/06#message-20127552
+    url: http://lingr.com/room/emacs/archives/2014/09/27#message-20283431
   link:
-    name: 第一回 init.el読書会に参加しました - Life is very short
-    url: http://d.hatena.ne.jp/syohex/20140910/1410356727
-- id: 2
-  date: 2014-09-13 22:00
-  author:
-    name: yoshitia
-    url: https://github.com/yoshitia/.emacs.d/tree/4459b277a5
-  log:
-    url: http://lingr.com/room/emacs/archives/2014/09/13#message-20185143
-  link:
-    name: 第二回 init.el読書会に参加しました - Life is very short
-    url: http://d.hatena.ne.jp/syohex/20140920/1411217224
+    name: 第四回 init.el読書会に参加しました - Life is very short
+    url: http://d.hatena.ne.jp/syohex/20140928/1411874248
 - id: 3
   date: 2014-09-20 22:00
   author:
@@ -29,3 +19,23 @@
   link:
     name: 第三回 init.el読書会に参加しました - Life is very short
     url: http://d.hatena.ne.jp/syohex/20140923/1411445055
+- id: 2
+  date: 2014-09-13 22:00
+  author:
+    name: yoshitia
+    url: https://github.com/yoshitia/.emacs.d/tree/4459b277a5
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/09/13#message-20185143
+  link:
+    name: 第二回 init.el読書会に参加しました - Life is very short
+    url: http://d.hatena.ne.jp/syohex/20140920/1411217224
+- id: 1
+  date: 2014-09-06 22:00
+  author:
+    name: hico_horiuchi
+    url: https://github.com/hico-horiuchi/dotemacs/tree/45715f80da
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/09/06#message-20127552
+  link:
+    name: 第一回 init.el読書会に参加しました - Life is very short
+    url: http://d.hatena.ne.jp/syohex/20140910/1410356727
