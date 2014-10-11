@@ -6,6 +6,9 @@
     url: https://github.com/wataken44/dot.emacs.d2/tree/0c4f39d26e
   log:
     url: http://lingr.com/room/emacs/archives/2014/10/04#message-20333854
+  link:
+    name: 第五回 init.el読書会に参加しました - Life is very short
+    url: http://d.hatena.ne.jp/syohex/20141011/1412996912
 - id: 4
   date: 2014-09-27 22:00
   author:
