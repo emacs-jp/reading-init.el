@@ -19,7 +19,7 @@ h3.bold
         th リンク
       tbody
         - data.archives.each do |archive|
-          - t = Time.parse data.next[0].date
+          - t = Time.parse archive.date
           tr
             td.center #{archive.id}
             td #{t.strftime "%Y/%m/%d(#{%w( 日 月 火 水 木 金 土 )[t.wday]}) %H:%M" }～
