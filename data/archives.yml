@@ -1,4 +1,11 @@
 ---
+- id: 6
+  date: 2014-10-11 22:00
+  author:
+    name: dragonwasrobot
+    url: https://github.com/dragonwasrobot/dot-emacs/tree/6b832371de
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/10/11#message-20379735
 - id: 5
   date: 2014-10-04 22:00
   author:
