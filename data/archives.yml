@@ -1,4 +1,18 @@
 ---
+- id: 8
+  date: 2014-10-25 22:00
+  author:
+    name: nanasess
+    url: https://github.com/nanasess/dot.emacs/tree/47c4c11188
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/10/25#message-20464053
+- id: 7
+  date: 2014-10-18 22:00
+  author:
+    name: muratayusuke
+    url: https://github.com/muratayusuke/dot.emacs.d/tree/3df4150006
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/10/18#message-20423249
 - id: 6
   date: 2014-10-11 22:00
   author:
