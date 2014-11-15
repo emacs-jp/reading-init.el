@@ -1,4 +1,11 @@
 ---
+- id: 11
+  date: 2014-11-15 22:00
+  author:
+    name: dtan4
+    url: https://github.com/dtan4/dot.emacs.d/tree/bdf40ed
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/11/15#message-20614340
 - id: 10
   date: 2014-11-08 22:00
   author:
