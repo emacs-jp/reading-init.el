@@ -1,4 +1,11 @@
 ---
+- id: 10
+  date: 2014-11-08 22:00
+  author:
+    name: tsu-nera
+    url: https://github.com/tsu-nera/dotfiles/tree/437841c4e9
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/11/08#message-20564406
 - id: 9
   date: 2014-11-01 22:00
   author:
