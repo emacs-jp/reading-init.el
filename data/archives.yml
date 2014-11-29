@@ -1,4 +1,11 @@
 ---
+- id: 12
+  date: 2014-11-22 22:00
+  author:
+    name: foggycowinn
+    url: https://github.com/garaud/foggycowinn/tree/8ecf8a7019
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/11/22#message-20672638
 - id: 11
   date: 2014-11-15 22:00
   author:
