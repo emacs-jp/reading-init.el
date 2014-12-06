@@ -1,4 +1,11 @@
 ---
+- id: 13
+  date: 2014-11-29 22:00
+  author:
+    name: fgallina
+    url: https://github.com/fgallina/dotemacs/commit/9ca4ea2
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/11/29#message-20729460
 - id: 12
   date: 2014-11-22 22:00
   author:
