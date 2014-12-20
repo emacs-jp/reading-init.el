@@ -1,4 +1,11 @@
 ---
+- id: 16
+  date: 2014-12-20 22:00
+  author:
+    name: bzg
+    url: https://github.com/bzg/dotemacs/tree/5aa943ef40
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/12/20#message-20877156
 - id: 15
   date: 2014-12-13 22:00
   author:
