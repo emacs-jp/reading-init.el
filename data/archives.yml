@@ -1,4 +1,11 @@
 ---
+- id: 17
+  date: 2014-12-27 22:00
+  author:
+    name: supermomonga
+    url: https://github.com/supermomonga/dot-emacs/tree/8df3cbcd28
+  log:
+    url: http://lingr.com/room/emacs/archives/2014/12/27#message-20913154
 - id: 16
   date: 2014-12-20 22:00
   author:
