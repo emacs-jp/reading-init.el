@@ -1,4 +1,18 @@
 ---
+- id: 19
+  date: 2015-01-17 22:00
+  author:
+    name: nsaeki
+    url: https://github.com/nsaeki/dotemacs/tree/63d507dd45
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/01/17#message-21052951
+- id: 18
+  date: 2015-01-10 22:00
+  author:
+    name: byplayer
+    url: https://github.com/byplayer/dot.emacs.d/tree/1739568698
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/01/10#message-21001284
 - id: 17
   date: 2014-12-27 22:00
   author:

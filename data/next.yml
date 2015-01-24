@@ -1,6 +1,6 @@
 ---
-- id: 18
-  date: 2015-01-10 22:00
+- id: 20
+  date: 2015-01-24 22:00
   author:
-    name: byplayer
-    url: https://github.com/byplayer/dot.emacs.d/tree/1739568698
+    name: nanasess
+    url: https://github.com/nanasess/dot.emacs/tree/bab5635d97
