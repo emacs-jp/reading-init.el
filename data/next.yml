@@ -1,6 +1,6 @@
 ---
-- id: 22
-  date: 2015-02-07 22:00
+- id: 23
+  date: 2015-02-14 22:00
   author:
-    name: shibayu36
-    url: https://github.com/shibayu36/emacs/tree/8efb6b82ed
+    name: fjyuu
+    url: https://github.com/fjyuu/dotfiles/tree/c384ed520d/share/dot.emacs.d

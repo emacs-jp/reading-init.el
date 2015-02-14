@@ -1,4 +1,11 @@
 ---
+- id: 22
+  date: 2015-02-07 22:00
+  author:
+    name: shibayu36
+    url: https://github.com/shibayu36/emacs/tree/8efb6b82ed
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/02/07#message-21215444
 - id: 21
   date: 2015-01-31 22:00
   author:
