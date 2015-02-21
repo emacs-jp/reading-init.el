@@ -1,4 +1,11 @@
 ---
+- id: 23
+  date: 2015-02-14 22:00
+  author:
+    name: fjyuu
+    url: https://github.com/fjyuu/dotfiles/tree/c384ed520d/share/dot.emacs.d
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/02/14#message-21264924
 - id: 22
   date: 2015-02-07 22:00
   author:
