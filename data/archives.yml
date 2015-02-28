@@ -1,4 +1,11 @@
 ---
+- id: 24
+  date: 2015-02-21 22:00
+  author:
+    name: meteor1113
+    url: https://github.com/meteor1113/dotemacs/tree/9f23c5c065
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/02/21#message-21313062
 - id: 23
   date: 2015-02-14 22:00
   author:
