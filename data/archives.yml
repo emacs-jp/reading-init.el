@@ -1,4 +1,11 @@
 ---
+- id: 25
+  date: 2015-02-28 22:00
+  author:
+    name: takaxp
+    url: https://github.com/takaxp/emacs.d/tree/e184ab5606
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/02/28#message-21353397
 - id: 24
   date: 2015-02-21 22:00
   author:
