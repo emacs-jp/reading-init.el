@@ -1,4 +1,11 @@
 ---
+- id: 26
+  date: 2015-03-14 22:00
+  author:
+    name: kosh04
+    url: https://github.com/kosh04/emacs-lisp/tree/38569a7
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/03/14#message-21462118
 - id: 25
   date: 2015-02-28 22:00
   author:
