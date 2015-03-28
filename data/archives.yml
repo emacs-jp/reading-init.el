@@ -1,4 +1,11 @@
 ---
+- id: 27
+  date: 2015-03-21 22:00
+  author:
+    name: edvorg
+    url: https://github.com/edvorg/emacs-configs/tree/09c1d38aad
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/03/21#message-21512194
 - id: 26
   date: 2015-03-14 22:00
   author:
