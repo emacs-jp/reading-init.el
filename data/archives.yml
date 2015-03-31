@@ -1,4 +1,11 @@
 ---
+- id: 28
+  date: 2015-03-28 22:00
+  author:
+    name: luismbo
+    url: https://github.com/luismbo/dot-emacs/tree/ad7151ed19
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/03/28#message-21558111
 - id: 27
   date: 2015-03-21 22:00
   author:
