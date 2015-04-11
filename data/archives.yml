@@ -1,4 +1,11 @@
 ---
+- id: 29
+  date: 2015-04-11 22:00
+  author:
+    name: smartchr
+    url: https://github.com/imakado/emacs-smartchr/tree/964ba0ce5f
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/04/11#message-21647613
 - id: 28
   date: 2015-03-28 22:00
   author:
