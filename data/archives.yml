@@ -1,4 +1,11 @@
 ---
+- id: 30
+  date: 2015-04-18 22:00
+  author:
+    name: pogin503
+    url: https://github.com/pogin503/dot-emacs/tree/c7026e6cb6
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/04/18#message-21694617
 - id: 29
   date: 2015-04-11 22:00
   author:
