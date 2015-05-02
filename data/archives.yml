@@ -1,4 +1,11 @@
 ---
+- id: 31
+  date: 2015-04-25 22:00
+  author:
+    name: purcell
+    url: https://github.com/purcell/emacs.d/tree/f7038f1067
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/04/25#message-21734674
 - id: 30
   date: 2015-04-18 22:00
   author:
