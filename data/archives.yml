@@ -1,4 +1,11 @@
 ---
+- id: 33
+  date: 2015-05-09 22:00
+  author:
+    name: takaishi
+    url: https://github.com/takaishi/.emacs.d/tree/9fa563c488
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/05/09#message-21822572
 - id: 32
   date: 2015-05-02 22:00
   author:
