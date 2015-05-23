@@ -1,4 +1,11 @@
 ---
+- id: 34
+  date: 2015-05-16 22:00
+  author:
+    name: ainame
+    url: https://github.com/ainame/emacs-d/tree/3099d5d297
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/05/16#message-21860081
 - id: 33
   date: 2015-05-09 22:00
   author:
