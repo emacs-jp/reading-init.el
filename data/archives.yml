@@ -1,4 +1,11 @@
 ---
+- id: 35
+  date: 2015-05-23 22:00
+  author:
+    name: ogatomo
+    url: https://github.com/ogatomo/emacs/tree/c9408ab50e
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/05/23#message-21900029
 - id: 34
   date: 2015-05-16 22:00
   author:
