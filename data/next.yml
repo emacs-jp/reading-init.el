@@ -1,6 +1,6 @@
 ---
-- id: 38
-  date: 2015-06-13 22:00
+- id: 40
+  date: 2015-06-27 22:00
   author:
-    name: tarao
-    url: https://github.com/tarao/dotfiles/tree/2cfa9623a2
+    name: syohex
+    url: https://github.com/syohex/dot_files/tree/master/emacs
