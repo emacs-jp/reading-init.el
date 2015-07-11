@@ -1,4 +1,18 @@
 ---
+- id: 41
+  date: 2015-07-04 22:00
+  author:
+    name: syohex
+    url: https://github.com/syohex/dot_files/tree/4fd304d4c7/emacs
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/07/04#message-22117493
+- id: 40
+  date: 2015-06-27 22:00
+  author:
+    name: syohex
+    url: https://github.com/syohex/dot_files/tree/746d65596f/emacs
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/06/27#message-22086781
 - id: 39
   date: 2015-06-20 22:00
   author:
