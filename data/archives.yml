@@ -1,4 +1,18 @@
 ---
+- id: 43
+  date: 2015-07-18 22:00
+  author:
+    name: larstvei
+    url: https://github.com/larstvei/dot-emacs/tree/af2c7aad698676d56d04ae208d872bf98499adde
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/07/18#message-22180191
+- id: 42
+  date: 2015-07-11 22:00
+  author:
+    name: zonuexe
+    url: https://github.com/zonuexe/dotfiles/tree/c77e8545268aceabf39dfa3544a993d6ac1f83ca/.emacs.d
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/07/11#message-22149535
 - id: 41
   date: 2015-07-04 22:00
   author:
