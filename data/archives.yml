@@ -1,4 +1,18 @@
 ---
+- id: 45
+  date: 2015-08-08 22:00
+  author:
+    name: izahn
+    url: https://github.com/izahn/dotemacs/tree/32b9a140477f9e0e257b632297d726a67242be85
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/08/08#message-22274520
+- id: 44
+  date: 2015-08-01 22:00
+  author:
+    name: ncaq
+    url: https://github.com/ncaq/.emacs.d/tree/48e8944f682ad0e449288a362eb78f500aede022
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/08/01#message-22243862
 - id: 43
   date: 2015-07-18 22:00
   author:
