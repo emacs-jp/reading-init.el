@@ -1,4 +1,18 @@
 ---
+- id: 47
+  date: 2015-08-22 22:00
+  author:
+    name: KeenS
+    url: https://github.com/KeenS/dot.emacs.d/tree/297ad0c45f21d616ca2bc767e02842bc9d1a0bc3
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/08/22#message-22333725
+- id: 46
+  date: 2015-08-15 22:00
+  author:
+    name: masutaka
+    url: https://gist.github.com/masutaka/8177244/a40aeb4836c82a9c6ab657dc2a91af62adc74903
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/08/15#message-22305137
 - id: 45
   date: 2015-08-08 22:00
   author:
