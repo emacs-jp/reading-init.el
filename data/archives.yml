@@ -34,6 +34,9 @@
     url: https://github.com/larstvei/dot-emacs/tree/af2c7aad698676d56d04ae208d872bf98499adde
   log:
     url: http://lingr.com/room/emacs/archives/2015/07/18#message-22180191
+  link:
+    name: 指定したマイナーモードを表示しない(diminish篇)
+    url: http://qiita.com/tadsan/items/c859c5c04724cbda75fc
 - id: 42
   date: 2015-07-11 22:00
   author:
@@ -293,6 +296,9 @@
     url: https://github.com/dragonwasrobot/dot-emacs/tree/6b832371de
   log:
     url: http://lingr.com/room/emacs/archives/2014/10/11#message-20379735
+  link:
+    name: 第6回init.el読書会に参加しました - プログラムとかののblog
+    url: http://d.hatena.ne.jp/pogin/20141013/1413209399
 - id: 5
   date: 2014-10-04 22:00
   author:
