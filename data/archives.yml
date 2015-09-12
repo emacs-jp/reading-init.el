@@ -1,4 +1,18 @@
 ---
+- id: 49
+  date: 2015-09-05 22:00
+  author:
+    name: hitode909
+    url: https://github.com/hitode909/emacs-config/tree/f0a218d53cd49bd1f8ce966d28c504f22c34056f
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/09/05#message-22404832
+- id: 48
+  date: 2015-08-29 22:00
+  author:
+    name: shishi
+    url: https://github.com/shishi/.emacs.d/tree/991d21cc23cb121d994b72949fe95787ac192887
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/08/29#message-22367601
 - id: 47
   date: 2015-08-22 22:00
   author:
