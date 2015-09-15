@@ -1,4 +1,11 @@
 ---
+- id: 50
+  date: 2015-09-12 22:00
+  author:
+    name: simenheg
+    url: https://github.com/simenheg/.emacs.d/tree/3bd138b906390d137a139dcc3bb1d82ce093cb3e
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/09/12#message-22444440
 - id: 49
   date: 2015-09-05 22:00
   author:
