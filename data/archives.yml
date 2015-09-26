@@ -1,4 +1,11 @@
 ---
+- id: 51
+  date: 2015-09-19 22:00
+  author:
+    name: rejeep
+    url: https://github.com/rejeep/emacs/tree/e7884efd25e1d285c459f34a8956bc484c2d9377
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/09/19#message-22478140
 - id: 50
   date: 2015-09-12 22:00
   author:
