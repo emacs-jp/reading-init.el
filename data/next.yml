@@ -1,6 +1,6 @@
 ---
-- id: 53
-  date: 2015-10-03 22:00
+- id: 55
+  date: 2015-10-17 22:00
   author:
-    name: 未定
-    url: #
+    name: niku
+    url: https://github.com/niku/uti/tree/59a860b69a20c228150e479568db7792fceec838/.emacs.d

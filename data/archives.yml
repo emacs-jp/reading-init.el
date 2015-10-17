@@ -1,4 +1,18 @@
 ---
+- id: 54
+  date: 2015-10-10 22:00
+  author:
+    name: baron
+    url: https://github.com/baron/emacs/tree/1fbb894c8521bea8c3208795535c2dd19af8c55e
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/10/10#message-22584317
+- id: 53
+  date: 2015-10-03 22:00
+  author:
+    name: baron
+    url: https://github.com/baron/emacs/tree/1fbb894c8521bea8c3208795535c2dd19af8c55e
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/10/03#message-22549767
 - id: 52
   date: 2015-09-26 22:00
   author:
