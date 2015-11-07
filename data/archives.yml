@@ -1,11 +1,18 @@
 ---
-- id: 58
-  date: 2015-11-07 22:00
+- id: 59
+  date: 2015-11-14 22:00
   author:
     name: 未定
     url: #
   log:
     url: #
+- id: 58
+  date: 2015-11-07 22:00
+  author:
+    name: kissge
+    url: https://github.com/kissge/.emacs.d/tree/2cfed4872bd26fa2cfee44f5dda1f657f96eeb40
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/11/07#message-22695830
 - id: 57
   date: 2015-10-31 22:00
   author:
