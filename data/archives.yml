@@ -1,4 +1,32 @@
 ---
+- id: 58
+  date: 2015-11-07 22:00
+  author:
+    name: 未定
+    url: #
+  log:
+    url: #
+- id: 57
+  date: 2015-10-31 22:00
+  author:
+    name: akisute3
+    url: https://github.com/akisute3/dotfiles/tree/241a4cedaed4be65c3de7663b80f0a3717d336d3
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/10/31#message-22667318
+- id: 56
+  date: 2015-10-24 22:00
+  author:
+    name: nasa9084
+    url: https://github.com/nasa9084/emacs/tree/fb94605df720d8b1fb0cff5fbcb4452a58a32d38
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/10/24#message-22641623
+- id: 55
+  date: 2015-10-17 22:00
+  author:
+    name: niku
+    url: https://github.com/niku/uti/tree/59a860b69a20c228150e479568db7792fceec838/.emacs.d
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/10/17#message-22614470
 - id: 54
   date: 2015-10-10 22:00
   author:
