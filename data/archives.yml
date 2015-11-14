@@ -1,11 +1,18 @@
 ---
+- id: 60
+  date: 2015-11-21 22:00
+  author:
+    name: l3msh0
+    url: https://github.com/l3msh0/dot_emacs
+  log:
+    url: #
 - id: 59
   date: 2015-11-14 22:00
   author:
-    name: 未定
-    url: #
+    name: masutaka
+    url: https://gist.github.com/masutaka/8177244/822374ed7c92f3ed3f13ff87056cef44a8bc5ab8
   log:
-    url: #
+    url: http://lingr.com/room/emacs/archives/2015/11/14#message-22724388
 - id: 58
   date: 2015-11-07 22:00
   author:
