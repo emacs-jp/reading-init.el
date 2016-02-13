@@ -1,11 +1,88 @@
 ---
+- id: 71
+  date: 2016-02-13 22:00
+  author:
+    name: yuttie
+    url: https://github.com/yuttie/dot-emacs/tree/5211bebe8f42ef00c56cc6dc1ca09a1debc6cffb
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/02/13#message-23042647
+- id: 70
+  date: 2016-02-06 22:00
+  author:
+    name: j8takagi
+    url: https://github.com/j8takagi/.emacs.d/tree/b7a00e4ffd984512cdb06e93a20705604613c1c4
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/02/06#message-23023851
+- id: 69
+  date: 2016-01-30 22:00
+  author:
+    name: jordonbiondo
+    url: https://github.com/jordonbiondo/.emacs.d/tree/e536bb1da8fa1315b79a8e5235a1e8e2baa761ef
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/01/30#message-22998213
+- id: 68
+  date: 2016-01-23 22:00
+  author:
+    name: milkypostman
+    url: https://github.com/milkypostman/dotemacs/tree/f8d21ab75171cc2846e23ce2dc9aeb3440f572cf
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/01/23#message-22974449
+- id: 67
+  date: 2016-01-16 22:00
+  author:
+    name: sviridov
+    url: https://github.com/sviridov/.emacs.d/tree/03ab61cbe0d80ba86cc0c5601a1eeaebfefc063d
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/01/16#message-22943806
+- id: 66
+  date: 2016-01-09 22:00
+  author:
+    name: tomjakubowski
+    url: https://github.com/tomjakubowski/.emacs.d/tree/5e52547b67035eea22275d3ebaa3f74afb26282f
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/01/09#message-22920834
+- id: 65
+  date: 2015-12-26 22:00
+  author:
+    name: fukamachi
+    url: https://github.com/fukamachi/.emacs.d/tree/72dd5c3057151972f4131729c62cc0e193cc3141
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/12/26#message-22877501
+- id: 64
+  date: 2015-12-19 22:00
+  author:
+    name: dominikh
+    url: https://github.com/dominikh/dotfiles/tree/dcc535b8bbe73e253fa20200155d533925627254/emacs.d
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/12/19#message-22852851
+- id: 63
+  date: 2015-12-12 22:00
+  author:
+    name: cjohansen
+    url: https://github.com/cjohansen/.emacs.d/tree/4c7b4391814036153b262bc376b17133ba11514e
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/12/12#message-22827006
+- id: 62
+  date: 2015-12-05 22:00
+  author:
+    name: cjohansen
+    url: https://github.com/cjohansen/.emacs.d/tree/4c7b4391814036153b262bc376b17133ba11514e
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/12/05#message-22801389
+- id: 61
+  date: 2015-11-28 22:00
+  author:
+    name: tonini
+    url: https://github.com/tonini/emacs.d/tree/21835cf506a722c6b871987ec1a4388046045c46
+  log:
+    url: http://lingr.com/room/emacs/archives/2015/11/28#message-22775968
 - id: 60
   date: 2015-11-21 22:00
   author:
     name: l3msh0
     url: https://github.com/l3msh0/dot_emacs
   log:
-    url: #
+    url: http://lingr.com/room/emacs/archives/2015/11/21#message-22747073
 - id: 59
   date: 2015-11-14 22:00
   author:
