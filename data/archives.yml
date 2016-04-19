@@ -1,11 +1,25 @@
 ---
-- id: 74
-  date: 2016-03-05 22:00
+- id: 76
+  date: 2016-03-19 22:00
   author:
     name: 未定
     url: #
   log:
-    url: http://lingr.com/room/emacs/archives/2016/02/27#message-23082490
+    url: #
+- id: 75
+  date: 2016-03-12 22:00
+  author:
+    name: camsaul
+    url: https://github.com/camsaul/emacs-dir-2.0/tree/9f365fce18bb9fc333f836abe68d28c6d15e67be
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/03/12#message-23123191
+- id: 74
+  date: 2016-03-05 22:00
+  author:
+    name: nishikawasasaki
+    url: https://github.com/nishikawasasaki/dots/tree/50179e6226284755c0851c95e2c67d597037a395/.emacs.d
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/03/05#message-23104183
 - id: 73
   date: 2016-02-27 22:00
   author:
