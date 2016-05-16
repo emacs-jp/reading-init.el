@@ -1,11 +1,18 @@
 ---
-- id: 76
-  date: 2016-03-19 22:00
+- id: 77
+  date: 2016-03-26 22:00
   author:
     name: 未定
     url: #
   log:
     url: #
+- id: 76
+  date: 2016-03-19 22:00
+  author:
+    name: ananthakumaran
+    url: https://github.com/ananthakumaran/dotfiles/tree/8bc76ff6105e576cbd442a232b22ab876ba45f79/.emacs.d
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/03/19#message-23141955
 - id: 75
   date: 2016-03-12 22:00
   author:
