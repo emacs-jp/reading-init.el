@@ -1,11 +1,18 @@
 ---
-- id: 77
-  date: 2016-03-26 22:00
+- id: 78
+  date: 2016-04-02 22:00
   author:
     name: 未定
     url: #
   log:
     url: #
+- id: 77
+  date: 2016-03-26 22:00
+  author:
+    name: ffevotte
+    url: https://github.com/ffevotte/emacs.d/tree/f44d2adcaaea7e845e71b19d85ef8d0bfea5538a
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/03/26#message-23164316
 - id: 76
   date: 2016-03-19 22:00
   author:
