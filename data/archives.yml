@@ -1,11 +1,18 @@
 ---
+- id: 79
+  date: 2016-04-09 22:00
+  author:
+    name: jcinnamond
+    url: https://github.com/jcinnamond/emacs/tree/7bbdcb166afc5da080103b4ff455157a416ccdb7
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/04/09#message-23195430
 - id: 78
   date: 2016-04-02 22:00
   author:
-    name: 未定
-    url: #
+    name: russell
+    url: https://github.com/russell/dotfiles/tree/353365db20a4f90117f16125938e98722abf32b7
   log:
-    url: #
+    url: http://lingr.com/room/emacs/archives/2016/04/02#message-23180137
 - id: 77
   date: 2016-03-26 22:00
   author:
