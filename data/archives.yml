@@ -1,4 +1,11 @@
 ---
+- id: 91
+  date: 2016-07-09 22:00
+  author:
+    name: kskkwn
+    url: https://github.com/kskkwn/.emacs.d/tree/3f000cb9d1af0b7d4a18069d3ac7750878043349
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/07/09#message-23417306
 - id: 79
   date: 2016-04-09 22:00
   author:
