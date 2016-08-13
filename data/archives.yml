@@ -1,4 +1,11 @@
 ---
+- id: 94
+  date: 2016-07-30 22:00
+  author:
+    name: Silex
+    url: https://github.com/Silex/emacs-config/tree/1c84e8bdae1b7dd378e68d2013bf9b088e697bdd
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/07/30#message-23479382
 - id: 91
   date: 2016-07-09 22:00
   author:
