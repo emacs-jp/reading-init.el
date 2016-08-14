@@ -32,6 +32,14 @@ def build
   sh 'bundle exec middleman build'
 end
 
+def server
+  begin
+    sh "bundle exec middleman server"
+  rescue Interrupt
+    sleep 3
+  end
+end
+
 def clean
   require 'fileutils'
 
@@ -65,6 +73,12 @@ desc 'Build sites'
 task :build do
   clean
   build
+end
+
+desc 'Deploy website'
+task :server do
+  build
+  server
 end
 
 desc 'Publish website'
