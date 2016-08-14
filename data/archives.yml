@@ -1,4 +1,11 @@
 ---
+- id: 95
+  date: 2016-08-13 22:00
+  author:
+    name: CestDiego
+    url: https://github.com/CestDiego/.emacs.d/tree/8317f637ad3520f422d738db7e13128184b363e7
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/08/13#message-23510807
 - id: 94
   date: 2016-07-30 22:00
   author:
@@ -6,6 +13,20 @@
     url: https://github.com/Silex/emacs-config/tree/1c84e8bdae1b7dd378e68d2013bf9b088e697bdd
   log:
     url: http://lingr.com/room/emacs/archives/2016/07/30#message-23479382
+- id: 93
+  date: 2016-07-23 22:00
+  author:
+    name: creack
+    url: https://github.com/creack/dotfiles/tree/4634ec8d910a3cfd7cbd8bac4b5a28966e52300b
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/07/16#message-23439408
+- id: 92
+  date: 2016-07-16 22:00
+  author:
+    name: edmistond
+    url: https://github.com/edmistond/.emacs.d/tree/5fd8e39ab834cfb7c5c4c8fda88b1941b34df435
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/07/16#message-23439434
 - id: 91
   date: 2016-07-09 22:00
   author:
