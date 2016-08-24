@@ -1,4 +1,14 @@
 ---
+- id: 96
+  date: 2016-08-20 22:00
+  author:
+    name: CestDiego
+    url: https://github.com/CestDiego/.emacs.d/tree/8317f637ad3520f422d738db7e13128184b363e7
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/08/20#message-23529648
+  link:
+    name: sweetgreen.el
+    url: https://github.com/CestDiego/sweetgreen.el
 - id: 95
   date: 2016-08-13 22:00
   author:
@@ -6,6 +16,9 @@
     url: https://github.com/CestDiego/.emacs.d/tree/8317f637ad3520f422d738db7e13128184b363e7
   log:
     url: http://lingr.com/room/emacs/archives/2016/08/13#message-23510807
+  link:
+    name: sweetgreen.el
+    url: https://github.com/CestDiego/sweetgreen.el
 - id: 94
   date: 2016-07-30 22:00
   author:
