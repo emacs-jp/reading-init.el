@@ -1,4 +1,15 @@
 ---
+
+- id: 108
+  date: 2016-11-12 22:00
+  author:
+    name: IvanMalison
+    url: https://github.com/IvanMalison/.emacs.d/tree/bc8a19d1f8e9ca462bb637e32c2863522eda35dc
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/11/12#message-23703618
+  link:
+    name: multi-line
+    url: https://github.com/IvanMalison/multi-line
 - id: 107
   date: 2016-11-05 22:00
   author:
