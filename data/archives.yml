@@ -68,6 +68,20 @@
     url: https://github.com/kskkwn/.emacs.d/tree/3f000cb9d1af0b7d4a18069d3ac7750878043349
   log:
     url: http://lingr.com/room/emacs/archives/2016/07/09#message-23417306
+- id: 81
+  date: 2016-04-23 22:00
+  author:
+    name: sanryuu
+    url: https://github.com/sanryuu/emacs.d/tree/b1a4a2ade729809d46eaa801f65902bcaf57134b
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/04/23#message-23231108
+- id: 80
+  date: 2016-04-16 22:00
+  author:
+    name: ejmr
+    url: https://github.com/ejmr/DotEmacs/tree/f9f6fc7efa6d1877d544c0c9e7da1378915bd76f
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/04/16#message-23214810
 - id: 79
   date: 2016-04-09 22:00
   author:
