@@ -68,6 +68,44 @@
     url: https://github.com/kskkwn/.emacs.d/tree/3f000cb9d1af0b7d4a18069d3ac7750878043349
   log:
     url: http://lingr.com/room/emacs/archives/2016/07/09#message-23417306
+- id: 86
+  date: 2016-05-28 22:00
+  author:
+    name: dleslie
+    url: https://github.com/dleslie/emacs.d/tree/6d1024ccfcb576bf6c6f1b4d6ed17e5864c1b53d
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/05/28#message-23310892
+- id: 85
+  date: 2016-05-21 22:00
+  author:
+    name: murasesyuka
+    url: https://github.com/murasesyuka/dotemacs2014/tree/af7f70671241896081da29307f4906b6609797cc
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/05/21#message-23295378
+- id: 84
+  date: 2016-05-14 22:00
+  author:
+    name: skx
+    url: https://github.com/skx/dotfiles/tree/c12269bb653ca3101fb1996fb5105e1d54c5a092/.emacs.d
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/05/14#message-23279680
+- id: 83
+  date: 2016-05-07 22:00
+  author:
+    name: ayato-p
+    url: https://github.com/ayato-p/.emacs.d/tree/7d1ef48cb7accc5a962d24d386e90632e87fdfc4
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/05/07#message-23263944
+- id: 82
+  date: 2016-04-30 22:00
+  author:
+    name: benma
+    url: https://github.com/benma/emacs.d/tree/6e79e1539443966d1ff88f419aef128d8c0b8563
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/04/30#message-23245903
+  link: 
+    name: visual-regexp
+    url: https://github.com/benma/visual-regexp.el
 - id: 81
   date: 2016-04-23 22:00
   author:
