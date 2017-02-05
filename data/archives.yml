@@ -1,5 +1,85 @@
 ---
-
+- id: 116
+  date: 2017-01-14 22:00
+  author:
+    name: aaronbieber
+    url: https://github.com/aaronbieber/dotfiles/tree/e4ff68b35fb3dbcfc7118369aad28f327066aca2
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/01/14#message-23812317
+  link:
+    name: init.el
+    url: https://github.com/aaronbieber/dotfiles/blob/master/configs/emacs.d/init.el
+- id: 115
+  date: 2017-01-07 22:00
+  author:
+    name: "Edward O'Connor"
+    url: http://tess.oconnor.cx/config/.emacs
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/01/07#message-23802485
+  link:
+    name: .emacs
+    url: http://tess.oconnor.cx/config/.emacs
+- id: 114
+  date: 2016-12-24 22:00
+  author:
+    name: milkypostman
+    url: https://github.com/milkypostman/dotemacs/tree/960cf3ab1f2199ffaf1541c6fa1325ad33b92992
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/12/24#message-23780095
+  link:
+    name: init.el
+    url: https://github.com/milkypostman/dotemacs/blob/master/init.el
+- id: 113
+  date: 2016-12-17 22:00
+  author:
+    name: Gnouc
+    url: https://github.com/Gnouc/emacs.d/tree/8d535799d3537d25f49b3c22d5d947f05facf4df
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/12/17#message-23769520
+  link:
+    name: init.el
+    url: https://github.com/Gnouc/emacs.d/blob/master/init.el
+- id: 112
+  date: 2016-12-10 22:00
+  author:
+    name: 10sr
+    url: https://github.com/10sr/dotfiles/tree/e06c8bea8496044822d50075e6158e50cd9dd30a
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/12/10#message-23759305
+  link:
+    name: emacs.el
+    url: https://github.com/10sr/dotfiles/blob/master/emacs.el
+- id: 111
+  date: 2016-12-03 22:00
+  author:
+    name: mecab
+    url: https://github.com/mecab/.emacs.d/tree/9f2ba170dfae011338dce44094bea3f938a00c54
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/12/03#message-23743488
+  link:
+    name: init.el
+    url: https://github.com/mecab/.emacs.d/blob/master/init.el
+- id: 110
+  date: 2016-11-26 22:00
+  author:
+    name: vermiculus
+    url: https://github.com/vermiculus/dotfiles/tree/6deae9dd6a699d0125b1e89a9ccac4c1420c3a2e
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/11/26#message-23729227
+  link:
+    name: init.el
+    url: https://github.com/vermiculus/dotfiles/blob/master/.emacs.d/init.el
+- id: 109
+  date: 2016-11-19 22:00
+  author:
+    name: IvanMalison
+    url: https://github.com/IvanMalison/.emacs.d/tree/bc8a19d1f8e9ca462bb637e32c2863522eda35dc
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/11/19#message-23717305
+  link:
+  link:
+    name: IvanMalison/multi-line
+    url: https://github.com/IvanMalison/multi-line
 - id: 108
   date: 2016-11-12 22:00
   author:
@@ -8,7 +88,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2016/11/12#message-23703618
   link:
-    name: multi-line
+    name: IvanMalison/multi-line
     url: https://github.com/IvanMalison/multi-line
 - id: 107
   date: 2016-11-05 22:00
@@ -20,6 +100,106 @@
   link:
     name: emacs-websocket
     url: https://github.com/ahyatt/emacs-websocket
+- id: 106
+  date: 2016-10-29 22:00
+  author:
+    name: Elliot
+    url: http://www.elliotglaysher.org/emacs/
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/10/29#message-23677087
+  link:
+    name: .emacs
+    url: http://www.elliotglaysher.org/emacs/emacs.el
+- id: 105
+  date: 2016-10-22 22:00
+  author:
+    name: fnwiya
+    url: https://github.com/fnwiya/dotfiles/tree/f64720cad6ff1462fb5956c057caa190bf9a6fe9
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/10/22#message-23664647
+  link:
+    name: .emacs.d
+    url: https://github.com/fnwiya/dotfiles/tree/master/setup/.emacs.d
+- id: 104
+  date: 2016-10-15 22:00
+  author:
+    name: rexim
+    url: https://github.com/rexim/dotfiles/tree/3779b10b92b0056757c39fb1cc07f9faa9b630dd
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/10/15#message-23651093
+  link:
+    name: .emacs
+    url: https://github.com/rexim/dotfiles/blob/master/.emacs
+- id: 103
+  date: 2016-10-08 22:00
+  author:
+    name: kovrik
+    url: https://github.com/kovrik/.emacs.d/tree/f197a7cc300a5ae7b4f267b0eeded3a2e03f4689
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/10/08#message-23639610
+  link:
+    name: init.el
+    url: https://github.com/kovrik/.emacs.d/blob/master/init.el
+- id: 102
+  date: 2016-10-01 22:00
+  author:
+    name: syl20bnr
+    url: https://github.com/syl20bnr/spacemacs/tree/312d87f4378fdc99841698c29aa6e8601ccd7268
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/10/01#message-23624020
+  link:
+    name: spacemacs/init.el
+    url: https://github.com/syl20bnr/spacemacs/blob/master/init.el
+- id: 101
+  date: 2016-09-24 22:00
+  author:
+    name: syl20bnr
+    url: https://github.com/syl20bnr/spacemacs/tree/312d87f4378fdc99841698c29aa6e8601ccd7268
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/09/24#message-23605928
+  link:
+    name: spacemacs/init.el
+    url: https://github.com/syl20bnr/spacemacs/blob/master/init.el
+- id: 100
+  date: 2016-09-17 22:00
+  author:
+    name: syl20bnr
+    url: https://github.com/syl20bnr/spacemacs/tree/312d87f4378fdc99841698c29aa6e8601ccd7268
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/09/17#message-23592518
+  link:
+    name: spacemacs/init.el
+    url: https://github.com/syl20bnr/spacemacs/blob/master/init.el
+- id: 99
+  date: 2016-09-10 22:00
+  author:
+    name: leque
+    url: https://github.com/leque/dot.emacs/tree/4e3eed237b8dc9ba43730726df75ae2ebb313736
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/09/10#message-23577355
+  link:
+    name: init.el
+    url: https://github.com/leque/dot.emacs/blob/master/init.el
+- id: 98
+  date: 2016-09-03 22:00
+  author:
+    name: derui
+    url: https://github.com/derui/dot.emacs.d/tree/d46f0fbc5129b9e9befe5beb88bed094914db25a
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/09/03#message-23562272
+  link:
+    name: init.el
+    url: https://github.com/derui/dot.emacs.d/blob/master/init.el
+- id: 97
+  date: 2016-08-27 22:00
+  author:
+    name: nex3
+    url: https://github.com/nex3/dotfiles/tree/36c79a57e5352ed6805c3ee35b76acfa97b34550
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/08/27#message-23544989
+  link:
+    name: emacs.el
+    url: https://github.com/nex3/dotfiles/blob/master/emacs.el
 - id: 96
   date: 2016-08-20 22:00
   author:
@@ -53,7 +233,7 @@
     name: creack
     url: https://github.com/creack/dotfiles/tree/4634ec8d910a3cfd7cbd8bac4b5a28966e52300b
   log:
-    url: http://lingr.com/room/emacs/archives/2016/07/16#message-23439408
+    url: http://lingr.com/room/emacs/archives/2016/07/23#message-23459623
 - id: 92
   date: 2016-07-16 22:00
   author:
@@ -68,6 +248,34 @@
     url: https://github.com/kskkwn/.emacs.d/tree/3f000cb9d1af0b7d4a18069d3ac7750878043349
   log:
     url: http://lingr.com/room/emacs/archives/2016/07/09#message-23417306
+- id: 90
+  date: 2016-06-25 22:00
+  author:
+    name: howardabrams
+    url: https://github.com/howardabrams/dot-files/tree/be6de6df8db6190a759f5ef786c221a2071cf4e6
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/06/25#message-23373295
+- id: 89
+  date: 2016-06-18 22:00
+  author:
+    name: glaysher
+    url: http://www.elliotglaysher.org/emacs/
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/06/18#message-23355619
+- id: 88
+  date: 2016-06-11 22:00
+  author:
+    name: jordonbiondo
+    url: https://github.com/jordonbiondo/.emacs.d/tree/6e2958207a4d3169b2cb429ef154779ca275751f
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/06/11#message-23342137
+- id: 87
+  date: 2016-06-04 22:00
+  author:
+    name: stefano-m
+    url: https://notabug.org/stefano-m/.emacs.d/src/21730088bcfa11ea65afcaf9b9446c34605337df
+  log:
+    url: http://lingr.com/room/emacs/archives/2016/06/04#message-23327722
 - id: 86
   date: 2016-05-28 22:00
   author:
