@@ -1,4 +1,25 @@
 ---
+- id: 119
+  date: 2017-02-04 22:00
+  author:
+    name: Wilfred
+    url: https://github.com/Wilfred/.emacs.d/commit/58dbb28483e4c5e91ae7f23f887ce9b6e82e5984
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/02/04#message-23847435
+- id: 118
+  date: 2017-01-28 22:00
+  author:
+    name: Wilfred
+    url:  https://github.com/Wilfred/.emacs.d/commit/902485e091b55d22836f76a897b0a2f0fbdefbf4
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/01/28#message-23834428
+- id: 117
+  date: 2017-01-21 22:00
+  author:
+    name: Wilfred
+    url: https://github.com/Wilfred/.emacs.d/tree/be816a51d2f65268981e1087390499a9847e3c7b
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/01/21#message-23822474
 - id: 116
   date: 2017-01-14 22:00
   author:
@@ -98,7 +119,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2016/11/05#message-23688949
   link:
-    name: emacs-websocket
+    name: ahyatt/emacs-websocket
     url: https://github.com/ahyatt/emacs-websocket
 - id: 106
   date: 2016-10-29 22:00
@@ -208,7 +229,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2016/08/20#message-23529648
   link:
-    name: sweetgreen.el
+    name: CestDiego/sweetgreen.el
     url: https://github.com/CestDiego/sweetgreen.el
 - id: 95
   date: 2016-08-13 22:00
@@ -218,7 +239,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2016/08/13#message-23510807
   link:
-    name: sweetgreen.el
+    name: CestDiego/sweetgreen.el
     url: https://github.com/CestDiego/sweetgreen.el
 - id: 94
   date: 2016-07-30 22:00
@@ -311,7 +332,7 @@
     url: https://github.com/benma/emacs.d/tree/6e79e1539443966d1ff88f419aef128d8c0b8563
   log:
     url: http://lingr.com/room/emacs/archives/2016/04/30#message-23245903
-  link: 
+  link:
     name: visual-regexp
     url: https://github.com/benma/visual-regexp.el
 - id: 81
