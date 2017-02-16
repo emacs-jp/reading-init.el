@@ -29,4 +29,5 @@ title: Top
         i.fa-li.fa.fa-user
         | init.el：
         = link_to data.next[0].author.name, data.next[0].author.url, target: :_blank
-        | &nbsp;さん
+        | &nbsp;さんの&nbsp;
+        = link_to data.next[0].initels[0].name, data.next[0].initels[0].url, target: :_blank
