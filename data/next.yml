@@ -1,9 +1,9 @@
 ---
-- id: 121
-  date: 2017-02-18 22:00
+- id: 122
+  date: 2017-02-25 22:00
   author:
-    name: lujun9972
-    url: https://github.com/lujun9972
+    name: kototama
+    url: https://github.com/kototama
   initels:
-  - url: https://github.com/lujun9972/emacs-init
-    name: emacs-init
+  - url: https://github.com/kototama/.emacs.d
+    name: ".emacs.d"
