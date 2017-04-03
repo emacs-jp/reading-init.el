@@ -1,9 +1,9 @@
 ---
-- id: 122
+- id: 128
   date: 2017-02-25 22:00
   author:
-    name: kototama
-    url: https://github.com/kototama
+    name: #
+    url: #
   initels:
-  - url: https://github.com/kototama/.emacs.d
-    name: ".emacs.d"
+  - url: #
+    name: #
