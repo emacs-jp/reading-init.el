@@ -1,9 +1,9 @@
 ---
-- id: 128
-  date: 2017-04-08 22:00
+- id: 130
+  date: 2017-04-22 23:00
   author:
-    name: #
-    url: #
+    name: wasamasa
+    url: https://github.com/wasamasa
   initels:
-  - url: #
-    name: #
+  - url: https://github.com/wasamasa/dotemacs
+    name: dotemacs
