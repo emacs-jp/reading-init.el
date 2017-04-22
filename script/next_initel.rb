@@ -36,7 +36,7 @@ f_current = current_data[0]
 f_next = next_data[0]
 
 f_next['id'] = f_current['id'] + 1
-f_next['date'] = "#{(Date.parse(f_current['date']) + 7)} 22:00"
+f_next['date'] = "#{(Date.parse(f_current['date']) + 7)} 23:00"
 
 # Update next init.el
 f_next['initels'] = next_initels.map {|initel|
