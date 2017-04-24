@@ -1,10 +1,10 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (5.0.2)
-      concurrent-ruby (~> 1.0, >= 1.0.2)
+    activesupport (4.2.8)
       i18n (~> 0.7)
       minitest (~> 5.1)
+      thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
     backports (3.7.0)
@@ -107,7 +107,7 @@ GEM
     pusher-client (0.6.2)
       json
       websocket (~> 1.0)
-    rack (2.0.1)
+    rack (1.6.5)
     rack-livereload (0.3.16)
       rack
     rb-fsevent (0.9.8)
@@ -151,7 +151,7 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 RUBY VERSION
-   ruby 2.3.3p222
+   ruby 2.2.0p0
 
 BUNDLED WITH
    1.14.6
