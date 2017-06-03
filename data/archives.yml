@@ -1,4 +1,11 @@
 ---
+- id: 135
+  date: 2017-05-27 23:00
+  author:
+    name: rhoit
+    url: https://github.com/rhoit/dot-emacs/tree/bc69619a438c79b72bf5494aa31af656858d0c29
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/05/27#message-24067399
 - id: 134
   date: 2017-05-20 23:00
   author:
