@@ -1,9 +1,9 @@
 ---
-- id: 135
-  date: 2017-05-27 23:00
+- id: 136
+  date: 2017-06-03 23:00
   author:
-    name: rhoit
-    url: https://github.com/rhoit
+    name: noahfrederick
+    url: https://github.com/noahfrederick
   initels:
-  - url: https://github.com/rhoit/dot-emacs
-    name: dot-emacs
+  - url: https://github.com/noahfrederick/dots/tree/master/emacs
+    name: emacs
