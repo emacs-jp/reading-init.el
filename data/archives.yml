@@ -1,4 +1,11 @@
 ---
+- id: 140
+  date: 2017-07-01 23:00
+  author:
+    name: hnmx4 
+    url: https://github.com/hnmx4/emacs/tree/cefe10e929d4ad326c8129ffa83ef202d09d3206
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/07/01#message-24133978
 - id: 135
   date: 2017-05-27 23:00
   author:
