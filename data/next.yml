@@ -1,9 +1,9 @@
 ---
-- id: 136
-  date: 2017-06-03 23:00
+- id: 141
+  date: 2017-07-08 23:00
   author:
-    name: noahfrederick
-    url: https://github.com/noahfrederick
+    name: aycanirican
+    url: https://github.com/aycanirican
   initels:
-  - url: https://github.com/noahfrederick/dots/tree/master/emacs
-    name: emacs
+  - url: https://github.com/aycanirican/.emacs.d
+    name: ".emacs.d"
