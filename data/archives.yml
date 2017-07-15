@@ -1,4 +1,11 @@
 ---
+- id: 141
+  date: 2017-07-08 23:00
+  author:
+    name: aycanirican
+    url: https://github.com/aycanirican/.emacs.d/tree/f0ea7601e7a481a0998204a3a76306ef84149b95
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/07/08#message-24147904
 - id: 140
   date: 2017-07-01 23:00
   author:
