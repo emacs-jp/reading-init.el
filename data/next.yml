@@ -1,9 +1,9 @@
 ---
-- id: 142
-  date: 2017-07-15 23:00
+- id: 145
+  date: 2017-08-05 23:00
   author:
-    name: biwakonbu
-    url: https://github.com/biwakonbu
+    name: supermomonga
+    url: https://github.com/supermomonga
   initels:
-  - url: https://github.com/biwakonbu/.emacs.d
-    name: ".emacs.d"
+  - url: https://github.com/supermomonga/dot-emacs
+    name: dot-emacs
