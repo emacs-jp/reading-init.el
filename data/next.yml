@@ -1,9 +1,9 @@
 ---
-- id: 145
-  date: 2017-08-05 23:00
+- id: 150
+  date: 2017-09-09 23:00
   author:
-    name: supermomonga
-    url: https://github.com/supermomonga
+    name: abo-abo
+    url: https://github.com/abo-abo
   initels:
-  - url: https://github.com/supermomonga/dot-emacs
-    name: dot-emacs
+  - url: https://github.com/abo-abo/oremacs
+    name: oremacs
