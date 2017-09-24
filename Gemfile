@@ -3,6 +3,7 @@ ruby '2.2.0'
 
 gem "middleman", "~>4"
 gem "slim"
+gem "rack", "~>1.6"
 
 # Live-reloading plugin
 gem "middleman-livereload"
@@ -14,3 +15,6 @@ gem "wdm", "~> 0.1.0", platforms: [:mswin, :mingw]
 gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 gem 'travis'
+
+gem "graphql"
+gem "graphql-client"
