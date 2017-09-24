@@ -1,0 +1,57 @@
+#!/usr/bin/env ruby
+
+require 'graphql/client'
+require 'graphql/client/http'
+require 'open-uri'
+
+if ARGV.empty?
+  puts "usage: #{File.basename(__FILE__)}"
+  puts '--------'
+  puts "./script/bin/#{File.basename(__FILE__)} initel_github_url"
+  exit
+elsif ENV['GITHUB_GRAPHQL_TOKEN'].nil?
+  puts 'GITHUB_GRAPHQL_TOKEN must be set. Create one here: https://github.com/settings/tokens'
+  exit
+end
+
+HTTPAdapter = GraphQL::Client::HTTP.new('https://api.github.com/graphql') do
+  def headers(_context)
+    { 'Authorization' => "Bearer #{ENV['GITHUB_GRAPHQL_TOKEN']}" }
+  end
+end
+
+Client = GraphQL::Client.new(
+  schema: GraphQL::Client.load_schema(HTTPAdapter),
+  execute: HTTPAdapter
+)
+
+initels = ARGV.map {|url|
+  url_path_split = url.split('/')
+  {
+    url: url,
+    name: url_path_split[-1],
+    author_name: url_path_split[3],
+    author_url: url_path_split[0..3].join('/'),
+  }
+}
+
+root = "#{File::dirname(__FILE__)}/../../"
+
+query_file_path = File.expand_path("#{root}/script/queries/head_commit_query.graphql")
+query = File.read(query_file_path)
+
+CommitQuery = Client.parse(query)
+
+variables = {
+  repo: initels[0][:name],
+  owner: initels[0][:author_name]
+}
+
+def get_tree_url(variables)
+
+  result = Client.query(CommitQuery, variables: variables)
+  commit = result.data.repository.default_branch_ref.target.history.edges.map(&:node)
+  commit[0].tree_url
+end
+
+print get_tree_url(variables)

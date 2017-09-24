@@ -1,0 +1,17 @@
+query ($repo:String!, $owner:String!){
+  repository(name: $repo, owner: $owner) {
+    defaultBranchRef{
+      target {
+        ... on Commit {
+          history(first: 1) {
+            edges {
+              node {
+                treeUrl
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
