@@ -34,14 +34,14 @@ next_data = Marshal.load(Marshal.dump(current_data))
 
 next_data.unshift(
   {
-    id: next_data[0]['id'] + 1,
-    date: "#{(Date.parse(next_data[0]['date']) + 7)} 23:00",
-    author: {
-      name: initels[0][:author_name],
-      url: `./script/bin/run-query #{initels[0][:url]}`
+    'id' => (next_data[0]['id'] + 1),
+    'date' => "#{(Date.parse(next_data[0]['date']) + 7)} 23:00",
+    'author' => {
+      'name' => initels[0][:author_name],
+      'url' => `./script/bin/run-query #{initels[0][:url]}`
     },
-    log: {
-      url: next_data[0]['log']['url']
+    'log' => {
+      'url' => next_data[0]['log']['url']
     }
   })
 
