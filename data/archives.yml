@@ -23,7 +23,7 @@
 - id: 140
   date: 2017-07-01 23:00
   author:
-    name: hnmx4 
+    name: hnmx4
     url: https://github.com/hnmx4/emacs/tree/cefe10e929d4ad326c8129ffa83ef202d09d3206
   log:
     url: http://lingr.com/room/emacs/archives/2017/07/01#message-24133978
@@ -66,7 +66,7 @@
   date: 2017-01-28 22:00
   author:
     name: Wilfred
-    url:  https://github.com/Wilfred/.emacs.d/commit/902485e091b55d22836f76a897b0a2f0fbdefbf4
+    url: https://github.com/Wilfred/.emacs.d/commit/902485e091b55d22836f76a897b0a2f0fbdefbf4
   log:
     url: http://lingr.com/room/emacs/archives/2017/01/28#message-23834428
 - id: 117
@@ -89,12 +89,12 @@
 - id: 115
   date: 2017-01-07 22:00
   author:
-    name: "Edward O'Connor"
+    name: Edward O'Connor
     url: http://tess.oconnor.cx/config/.emacs
   log:
     url: http://lingr.com/room/emacs/archives/2017/01/07#message-23802485
   link:
-    name: .emacs
+    name: ".emacs"
     url: http://tess.oconnor.cx/config/.emacs
 - id: 114
   date: 2016-12-24 22:00
@@ -154,7 +154,6 @@
   log:
     url: http://lingr.com/room/emacs/archives/2016/11/19#message-23717305
   link:
-  link:
     name: IvanMalison/multi-line
     url: https://github.com/IvanMalison/multi-line
 - id: 108
@@ -185,7 +184,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2016/10/29#message-23677087
   link:
-    name: .emacs
+    name: ".emacs"
     url: http://www.elliotglaysher.org/emacs/emacs.el
 - id: 105
   date: 2016-10-22 22:00
@@ -195,7 +194,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2016/10/22#message-23664647
   link:
-    name: .emacs.d
+    name: ".emacs.d"
     url: https://github.com/fnwiya/dotfiles/tree/master/setup/.emacs.d
 - id: 104
   date: 2016-10-15 22:00
@@ -205,7 +204,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2016/10/15#message-23651093
   link:
-    name: .emacs
+    name: ".emacs"
     url: https://github.com/rexim/dotfiles/blob/master/.emacs
 - id: 103
   date: 2016-10-08 22:00
@@ -665,7 +664,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2015/07/18#message-22180191
   link:
-    name: 指定したマイナーモードを表示しない(diminish篇)
+    name: "指定したマイナーモードを表示しない(diminish篇)"
     url: http://qiita.com/tadsan/items/c859c5c04724cbda75fc
 - id: 42
   date: 2015-07-11 22:00
@@ -927,7 +926,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2014/10/11#message-20379735
   link:
-    name: 第6回init.el読書会に参加しました - プログラムとかののblog
+    name: "第6回init.el読書会に参加しました - プログラムとかののblog"
     url: http://d.hatena.ne.jp/pogin/20141013/1413209399
 - id: 5
   date: 2014-10-04 22:00
@@ -937,7 +936,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2014/10/04#message-20333854
   link:
-    name: 第五回 init.el読書会に参加しました - Life is very short
+    name: "第五回 init.el読書会に参加しました - Life is very short"
     url: http://d.hatena.ne.jp/syohex/20141011/1412996912
 - id: 4
   date: 2014-09-27 22:00
@@ -947,7 +946,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2014/09/27#message-20283431
   link:
-    name: 第四回 init.el読書会に参加しました - Life is very short
+    name: "第四回 init.el読書会に参加しました - Life is very short"
     url: http://d.hatena.ne.jp/syohex/20140928/1411874248
 - id: 3
   date: 2014-09-20 22:00
@@ -957,7 +956,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2014/09/20#message-20234077
   link:
-    name: 第三回 init.el読書会に参加しました - Life is very short
+    name: "第三回 init.el読書会に参加しました - Life is very short"
     url: http://d.hatena.ne.jp/syohex/20140923/1411445055
 - id: 2
   date: 2014-09-13 22:00
@@ -967,7 +966,7 @@
   log:
     url: http://lingr.com/room/emacs/archives/2014/09/13#message-20185143
   link:
-    name: 第二回 init.el読書会に参加しました - Life is very short
+    name: "第二回 init.el読書会に参加しました - Life is very short"
     url: http://d.hatena.ne.jp/syohex/20140920/1411217224
 - id: 1
   date: 2014-09-06 22:00
@@ -977,5 +976,5 @@
   log:
     url: http://lingr.com/room/emacs/archives/2014/09/06#message-20127552
   link:
-    name: 第一回 init.el読書会に参加しました - Life is very short
+    name: "第一回 init.el読書会に参加しました - Life is very short"
     url: http://d.hatena.ne.jp/syohex/20140910/1410356727
