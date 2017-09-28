@@ -1,10 +1,17 @@
 ---
-- :id: 150
-  :date: 2017-09-09 23:00
-  :author:
-    :name: abo-abo
-    :url: https://github.com/abo-abo/oremacs/tree/20a32377d11c104bebf0a615fc67c72bdff6e9b7
-  :log:
+- id: 151
+  date: 2017-09-23 23:00
+  author:
+    name: expez
+    url: https://github.com/expez/.emacs.d/tree/7607f8d7b920ad86bace4454121cb3566c28956e
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/09/23#message-24281851
+- id: 150
+  date: 2017-09-09 23:00
+  author:
+    name: abo-abo
+    url: https://github.com/abo-abo/oremacs/tree/20a32377d11c104bebf0a615fc67c72bdff6e9b7
+  log:
     url: http://lingr.com/room/emacs/archives/2017/09/09#message-24258231
 - id: 141
   date: 2017-07-08 23:00
