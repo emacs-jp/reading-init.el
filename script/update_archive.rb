@@ -38,7 +38,7 @@ data.unshift(
     'date' => "#{(Date.parse(data[0]['date']) + 7)} 23:00",
     'author' => {
       'name' => initels[0][:author_name],
-      'url' => `./script/bin/run-query #{initels[0][:url]}`
+      'url' => `./script/bin/run-query head_commit_query #{initels[0][:url]}`
     },
     'log' => {
       'url' => data[0]['log']['url']
