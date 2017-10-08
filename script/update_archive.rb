@@ -27,24 +27,24 @@ initels = ARGV.map {|url|
 
 # Clone
 root = File::expand_path("#{File::dirname(__FILE__)}/..")
-next_data_path = "#{root}/data/archives.yml"
+data_path = "#{root}/data/archives.yml"
 
-current_data = YAML.load_file(next_data_path)
-next_data = Marshal.load(Marshal.dump(current_data))
+current_data = YAML.load_file(data_path)
+data = Marshal.load(Marshal.dump(current_data))
 
-next_data.unshift(
+data.unshift(
   {
-    'id' => (next_data[0]['id'] + 1),
-    'date' => "#{(Date.parse(next_data[0]['date']) + 7)} 23:00",
+    'id' => (data[0]['id'] + 1),
+    'date' => "#{(Date.parse(data[0]['date']) + 7)} 23:00",
     'author' => {
       'name' => initels[0][:author_name],
       'url' => `./script/bin/run-query #{initels[0][:url]}`
     },
     'log' => {
-      'url' => next_data[0]['log']['url']
+      'url' => data[0]['log']['url']
     }
   })
 
-open(next_data_path, "wb") {|f|
-  YAML.dump(next_data, f, indentation: 2)
+open(data_path, "wb") {|f|
+  YAML.dump(data, f, indentation: 2)
 }
