@@ -15,7 +15,7 @@ elsif ENV['GITHUB_GRAPHQL_TOKEN'].nil?
   exit
 end
 
-initels = ARGV.map {|url|
+initels = ARGV.map { |url|
   url_path_split = url.split('/')
   {
     url: url,
@@ -26,7 +26,7 @@ initels = ARGV.map {|url|
 }
 
 # Clone
-root = File::expand_path("#{File::dirname(__FILE__)}/..")
+root = File.expand_path("#{File.dirname(__FILE__)}/..")
 data_path = "#{root}/data/archives.yml"
 
 current_data = YAML.load_file(data_path)
@@ -41,10 +41,10 @@ data.unshift(
       'url' => `./script/bin/run-query head_commit_query #{initels[0][:url]}`
     },
     'log' => {
-      'url' => data[0]['log']['url']
+      'url' => data[0]['log']['url'],
     }
   })
 
-open(data_path, "wb") {|f|
+open(data_path, "wb") { |f|
   YAML.dump(data, f, indentation: 2)
 }

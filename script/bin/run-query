@@ -25,7 +25,7 @@ Client = GraphQL::Client.new(
   execute: HTTPAdapter
 )
 
-initels = ARGV.drop(1).map {|url|
+initels = ARGV.drop(1).map { |url|
   url_path_split = url.split('/')
   {
     url: url,
@@ -35,7 +35,7 @@ initels = ARGV.drop(1).map {|url|
   }
 }
 
-root = "#{File::dirname(__FILE__)}/../../"
+root = "#{File.dirname(__FILE__)}/../../"
 
 query_name = ARGV[0]
 query_file_path = File.expand_path("#{root}/script/queries/#{query_name}.graphql")

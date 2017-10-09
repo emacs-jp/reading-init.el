@@ -14,7 +14,7 @@ if ARGV.empty?
 end
 
 # Read URL from given arguments: Support only GitHub right now
-next_initels = ARGV.map {|url|
+next_initels = ARGV.map { |url|
   url_path_split = url.split('/')
   {
     url: url,
@@ -25,7 +25,7 @@ next_initels = ARGV.map {|url|
 }
 
 # Clone
-root = File::expand_path("#{File::dirname(__FILE__)}/..")
+root = File.expand_path("#{File.dirname(__FILE__)}/..")
 next_data_path = "#{root}/data/next.yml"
 
 current_data = YAML.load_file(next_data_path)
@@ -39,7 +39,7 @@ f_next['id'] = f_current['id'] + 1
 f_next['date'] = "#{(Date.parse(f_current['date']) + 7)} 23:00"
 
 # Update next init.el
-f_next['initels'] = next_initels.map {|initel|
+f_next['initels'] = next_initels.map { |initel|
   {
     'url' => initel[:url],
     'name' => initel[:name],
@@ -57,7 +57,7 @@ f_next['author'] = {
 # f_next['other'] = nil
 
 # IO
-open(next_data_path, "wb") {|f|
+open(next_data_path, "wb") { |f|
   YAML.dump(next_data, f, indentation: 2)
 }
 
