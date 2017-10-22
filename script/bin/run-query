@@ -7,7 +7,7 @@ require 'open-uri'
 if ARGV.empty?
   puts "usage: #{File.basename(__FILE__)}"
   puts '--------'
-  puts "./script/bin/#{File.basename(__FILE__)} query_name initel_github_url"
+  puts "./script/bin/#{File.basename(__FILE__)} query_name {initel_github_urls...} held_date"
   exit
 elsif ENV['GITHUB_GRAPHQL_TOKEN'].nil?
   puts 'GITHUB_GRAPHQL_TOKEN must be set. Create one here: https://github.com/settings/tokens'
@@ -25,7 +25,9 @@ Client = GraphQL::Client.new(
   execute: HTTPAdapter
 )
 
-initels = ARGV.drop(1).map { |url|
+# {initel_github_url ...}
+
+initels = ARGV.slice(1..ARGV.length-2).map { |url|
   url_path_split = url.split('/')
   {
     url: url,
@@ -43,9 +45,12 @@ query = File.read(query_file_path)
 
 CommitQuery = Client.parse(query)
 
+held_date = ARGV.last
+
 variables = {
   repo: initels[0][:name],
-  owner: initels[0][:author_name]
+  owner: initels[0][:author_name],
+  date: held_date
 }
 
 def get_tree_url(variables)

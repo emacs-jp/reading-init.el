@@ -32,13 +32,17 @@ data_path = "#{root}/data/archives.yml"
 current_data = YAML.load_file(data_path)
 data = Marshal.load(Marshal.dump(current_data))
 
+# ISO8601 format
+# yyyy-MM-ddTHH:mm:ss+09:00
+held_date = (Date.parse(data[0]['date']) + 7).strftime("%Y-%m-%dT23:00:%S+09:00")
+
 data.unshift(
   {
     'id' => (data[0]['id'] + 1),
     'date' => "#{(Date.parse(data[0]['date']) + 7)} 23:00",
     'author' => {
       'name' => initels[0][:author_name],
-      'url' => `./script/bin/run-query head_commit_query #{initels[0][:url]}`
+      'url' => `./script/bin/run-query head_commit_query #{initels[0][:url]} #{held_date}`,
     },
     'log' => {
       'url' => data[0]['log']['url'],

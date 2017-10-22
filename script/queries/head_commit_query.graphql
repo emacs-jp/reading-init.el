@@ -1,9 +1,9 @@
-query ($repo:String!, $owner:String!){
+query ($repo:String!, $owner:String!, $date:GitTimestamp){
   repository(name: $repo, owner: $owner) {
     defaultBranchRef{
       target {
         ... on Commit {
-          history(first: 1) {
+          history(first: 1, until: $date) {
             edges {
               node {
                 treeUrl
