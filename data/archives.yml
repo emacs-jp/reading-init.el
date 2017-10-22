@@ -1,4 +1,11 @@
 ---
+- id: 154
+  date: 2017-10-14 23:00
+  author:
+    name: ptrv
+    url: https://github.com/ptrv/emacs.d/tree/fb1b9d6c74485d76b340bc0fcf3cd7b6b40654d1
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/10/14#message-24312198
 - id: 153
   date: 2017-10-07 23:00
   author:
