@@ -1,6 +1,6 @@
 ---
 language: ruby
-rvm: 2.2.0
+rvm: 2.2
 before_script:
   - '[ "$TRAVIS_BRANCH" == "master" ] && [ "$GH_TOKEN" ] && rake setup > /dev/null'
 script: rake build
