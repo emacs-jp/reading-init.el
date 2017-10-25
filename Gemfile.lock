@@ -1,13 +1,13 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (4.2.9)
+    activesupport (5.0.6)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (~> 0.7)
       minitest (~> 5.1)
-      thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    backports (3.8.0)
+    backports (3.10.3)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -39,11 +39,11 @@ GEM
       multi_json (~> 1.0)
       net-http-persistent (~> 2.9)
       net-http-pipeline
-    graphql (1.6.8)
+    graphql (1.7.4)
     graphql-client (0.12.1)
       activesupport (>= 3.0, < 6.0)
       graphql (~> 1.6)
-    haml (5.0.3)
+    haml (5.0.4)
       temple (>= 0.8.0)
       tilt
     hamster (3.0.0)
@@ -159,7 +159,7 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 RUBY VERSION
-   ruby 2.2.0p0
+   ruby 2.2.7p470
 
 BUNDLED WITH
    1.15.4
