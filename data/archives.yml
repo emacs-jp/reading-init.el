@@ -1,4 +1,11 @@
 ---
+- id: 156
+  date: 2017-10-28 23:00
+  author:
+    name: howardabrams
+    url: https://github.com/howardabrams/dot-files/tree/4ada11d1ee8ad12caeb516322fff6371b6f2d80e
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/10/28#message-24330132
 - id: 155
   date: 2017-10-21 23:00
   author:
