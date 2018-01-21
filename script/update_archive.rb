@@ -15,7 +15,7 @@ elsif ENV['GITHUB_GRAPHQL_TOKEN'].nil?
   exit
 end
 
-initels = ARGV.map { |url|
+initels = ARGV.map do |url|
   url_path_split = url.split('/')
   {
     url: url,
@@ -34,7 +34,7 @@ data = Marshal.load(Marshal.dump(current_data))
 
 # ISO8601 format
 # yyyy-MM-ddTHH:mm:ss+09:00
-held_date = (Date.parse(data[0]['date']) + 7).strftime("%Y-%m-%dT23:00:%S+09:00")
+held_date = (Date.parse(data[0]['date']) + 7).strftime('%Y-%m-%dT23:00:%S+09:00')
 
 data.unshift(
   {
@@ -46,9 +46,10 @@ data.unshift(
     },
     'log' => {
       'url' => data[0]['log']['url'],
-    }
-  })
+    },
+  }
+)
 
-open(data_path, "wb") { |f|
+open(data_path, 'wb') do |f|
   YAML.dump(data, f, indentation: 2)
-}
+end

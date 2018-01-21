@@ -1,9 +1,10 @@
 REPOSITORY = 'emacs-jp/reading-init.el'
 MASTER_REPOSITORY = if ENV['GH_TOKEN']
-    "https://$GH_TOKEN@github.com/#{REPOSITORY}"
-  else
-    "git@github.com:#{REPOSITORY}.git"
-  end
+                      "https://$GH_TOKEN@github.com/#{REPOSITORY}"
+                    else
+                      "git@github.com:#{REPOSITORY}.git"
+                    end
+
 PUBLISH_BRANCH = 'gh-pages'
 DEST_DIR = 'build'
 
@@ -34,7 +35,7 @@ end
 
 def server
   begin
-    sh "bundle exec middleman server"
+    sh 'bundle exec middleman server'
   rescue Interrupt
     sleep 3
   end
@@ -61,7 +62,7 @@ end
 desc 'Setup origin repository for GitHub pages'
 task :setup do
   initialize_repository MASTER_REPOSITORY, PUBLISH_BRANCH
-#  update_repository PUBLISH_BRANCH
+  #  update_repository PUBLISH_BRANCH
 end
 
 desc 'Clean built files'
