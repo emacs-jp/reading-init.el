@@ -1,4 +1,11 @@
 ---
+- id: 161
+  date: 2017-12-02 23:00
+  author:
+    name: ocmagic
+    url: https://gist.github.com/ocmagic/b7b0be96b8fe4f0e48b2
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/12/02#message-24364436
 - id: 160
   date: 2017-11-25 23:00
   author:
