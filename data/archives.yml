@@ -1,4 +1,11 @@
 ---
+- id: 157
+  date: 2017-11-04 23:00
+  author:
+    name: rrix
+    url: https://home.rix.si/git/rrix/complete-computing-environment.git
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/11/04#message-24337032
 - id: 156
   date: 2017-10-28 23:00
   author:
