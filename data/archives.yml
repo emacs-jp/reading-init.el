@@ -1,4 +1,11 @@
 ---
+- id: 160
+  date: 2017-11-25 23:00
+  author:
+    name: AriYu
+    url: https://github.com/AriYu/dotfiles
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/11/25#message-24357949
 - id: 159
   date: 2017-11-18 23:00
   author:
