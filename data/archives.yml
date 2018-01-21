@@ -1,4 +1,11 @@
 ---
+- id: 162
+  date: 2017-12-09 23:00
+  author:
+    name: CSRaghunandan
+    url: https://github.com/CSRaghunandan/.emacs.d
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/12/09#message-24371882
 - id: 161
   date: 2017-12-02 23:00
   author:
