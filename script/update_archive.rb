@@ -24,6 +24,13 @@ initels = ARGV.map do |url|
       author_name: url_path_split[3],
       author_url: url_path_split[0..3].join('/'),
     }
+  elsif /https:\/\/gist.github.com/ =~ url
+    {
+      url: url,
+      name: 'init.el',
+      author_name: url_path_split[3],
+      author_url: url_path_split[0..3].join('/').sub(/gist\./, ''),
+    }
   else
     {
       url: url,
