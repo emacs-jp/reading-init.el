@@ -1,9 +1,9 @@
 ---
-- id: 167
-  date: 2018-01-13 23:00
+- id: 170
+  date: 2018-02-03 23:00
   author:
-    name: danieroux
-    url: https://github.com/danieroux
+    name: jamcha-aa
+    url: https://github.com/jamcha-aa
   initels:
-  - url: https://github.com/danieroux/emacs
-    name: emacs
+  - url: https://github.com/jamcha-aa/init/
+    name: init
