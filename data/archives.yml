@@ -1,4 +1,11 @@
 ---
+- id: 165
+  date: 2017-12-30 23:00
+  author:
+    name: junkw
+    url: https://github.com/junkw/dot.emacs.d/tree/e11930b42a0f92ba02c6a6a1e6956af214806ccd
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/12/30#message-24410362
 - id: 164
   date: 2017-12-23 23:00
   author:
