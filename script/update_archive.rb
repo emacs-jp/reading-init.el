@@ -52,8 +52,8 @@ data = Marshal.load(Marshal.dump(current_data))
 # yyyy-MM-ddTHH:mm:ss+09:00
 held_date = (Date.parse(data[0]['date']) + 7).strftime('%Y-%m-%dT23:00:%S+09:00')
 
-url = if initels[0][:url] == '^https:\/\/github.com/'
-        `./script/bin/run-query head_commit_query #{initels[0][:url]} #{held_date}`
+url = if /^https:\/\/github.com\// =~ initels[0][:url]
+        `bundle exec ./script/bin/run-query head_commit_query #{initels[0][:url]} #{held_date}`
       else
         initels[0][:url]
       end
