@@ -1,4 +1,11 @@
 ---
+- id: 168
+  date: 2018-01-20 23:00
+  author:
+    name: zk
+    url: https://github.com/zk/dotfiles/tree/4dd9cfc02d8eeed526ad9e56a1d64c01c74cac7c
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/01/20#message-24453018
 - id: 167
   date: 2018-01-13 23:00
   author:
