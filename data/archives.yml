@@ -1,4 +1,11 @@
 ---
+- id: 172
+  date: 2018-02-17 23:00
+  author:
+    name: fujimisakari
+    url: https://github.com/fujimisakari/.emacs.d/tree/7e10ab23e952755ecb9fea9edb9b49f9b5af490f
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/02/17#message-24498456
 - id: 171
   date: 2018-02-10 23:00
   author:
