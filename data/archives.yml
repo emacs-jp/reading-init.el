@@ -1,4 +1,11 @@
 ---
+- id: 169
+  date: 2018-01-27 23:00
+  author:
+    name: antonj
+    url: https://github.com/antonj/.emacs.d/tree/6c971dc6dcfffb1296d38c8b7822c799baab694a
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/01/27#message-24464359
 - id: 168
   date: 2018-01-20 23:00
   author:
