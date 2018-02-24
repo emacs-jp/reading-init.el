@@ -1,4 +1,11 @@
 ---
+- id: 170
+  date: 2018-02-03 23:00
+  author:
+    name: jamcha-aa
+    url: https://github.com/jamcha-aa/init/tree/6cf861d8e067e00fe05ee35adae9e393eb37dd4d
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/02/03#message-24475184
 - id: 169
   date: 2018-01-27 23:00
   author:
