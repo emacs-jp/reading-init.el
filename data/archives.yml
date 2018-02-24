@@ -1,4 +1,11 @@
 ---
+- id: 166
+  date: 2018-01-06 23:00
+  author:
+    name: AndreaCrotti
+    url: https://github.com/AndreaCrotti/Emacs-configuration/tree/7677db9c8699b959e8a45a74eeffee49bb2b7edb
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/01/06#message-24424435
 - id: 165
   date: 2017-12-30 23:00
   author:
