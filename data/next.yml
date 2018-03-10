@@ -1,9 +1,9 @@
 ---
-- id: 172
-  date: 2018-02-17 23:00
+- id: 175
+  date: 2018-03-10 23:00
   author:
-    name: fujimisakari
-    url: https://github.com/fujimisakari
+    name: kuanyui
+    url: https://github.com/kuanyui
   initels:
-  - url: https://github.com/fujimisakari/.emacs.d
+  - url: https://github.com/kuanyui/.emacs.d
     name: ".emacs.d"
