@@ -1,9 +1,9 @@
 ---
-- id: 176
-  date: 2018-03-17 23:00
+- id: 177
+  date: 2018-03-24 23:00
   author:
-    name: kuanyui
-    url: https://github.com/kuanyui
+    name: mrkkrp
+    url: https://github.com/mrkkrp
   initels:
-  - url: https://github.com/kuanyui/.emacs.d
-    name: ".emacs.d"
+  - url: https://github.com/mrkkrp/dot-emacs
+    name: dot-emacs
