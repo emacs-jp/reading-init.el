@@ -1,9 +1,9 @@
 ---
-- id: 177
-  date: 2018-03-24 23:00
+- id: 178
+  date: 2018-04-07 23:00
   author:
-    name: mrkkrp
-    url: https://github.com/mrkkrp
+    name: xuchunyang
+    url: https://github.com/xuchunyang
   initels:
-  - url: https://github.com/mrkkrp/dot-emacs
-    name: dot-emacs
+  - url: https://github.com/xuchunyang/emacs.d
+    name: emacs.d
