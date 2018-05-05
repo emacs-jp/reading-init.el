@@ -1,4 +1,11 @@
 ---
+- id: 182
+  date: 2018-05-05 23:00
+  author:
+    name: kaz-yos
+    url: https://github.com/kaz-yos/emacs/tree/c9703607571d570a56d0202ec1ae48d703ce8d2e
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/05/05#message-24581766
 - id: 181
   date: 2018-04-28 23:00
   author:
