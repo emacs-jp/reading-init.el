@@ -1,4 +1,32 @@
 ---
+- id: 177
+  date: 2018-03-24 23:00
+  author:
+    name: mrkkrp
+    url: https://github.com/mrkkrp/dot-emacs/tree/a266990eebbb6aa232aa238e9ecf5eca7ed2cea3
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/03/24#message-24539541
+- id: 176
+  date: 2018-03-17 23:00
+  author:
+    name: kuanyui
+    url: https://github.com/kuanyui/.emacs.d/tree/8110e958a643c72a717cc469e9692b56bc3d68f3
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/03/17#message-24535452
+- id: 175
+  date: 2018-03-10 23:00
+  author:
+    name: kuanyui
+    url: https://github.com/kuanyui/.emacs.d/tree/bc7250251fef36d64a1ced3ec07b4e6d027cc215
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/03/10#message-24531530
+- id: 174
+  date: 2018-03-03 23:00
+  author:
+    name: noqisofon
+    url: https://github.com/noqisofon/.emacs.d/tree/7c8ee6f83569b60e62d182169ddccbb70ff291b0
+  log:
+    url: http://lingr.com/room/emacs/archives/2018/03/03#message-24525481
 - id: 173
   date: 2018-02-24 23:00
   author:
