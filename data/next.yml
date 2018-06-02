@@ -1,9 +1,9 @@
 ---
-- id: 183
-  date: 2018-05-12 23:00
+- id: 186
+  date: 2018-06-02 23:00
   author:
-    name: kaz-yos
-    url: https://github.com/kaz-yos
+    name: anildigital
+    url: https://github.com/anildigital
   initels:
-  - url: https://github.com/kaz-yos/emacs
+  - url: https://github.com/anildigital/emacs
     name: emacs
