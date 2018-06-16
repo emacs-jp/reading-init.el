@@ -1,9 +1,9 @@
 ---
-- id: 186
-  date: 2018-06-02 23:00
+- id: 187
+  date: 2018-06-16 23:00
   author:
-    name: anildigital
-    url: https://github.com/anildigital
+    name: cute-jumper
+    url: https://github.com/cute-jumper
   initels:
-  - url: https://github.com/anildigital/emacs
-    name: emacs
+  - url: https://github.com/cute-jumper/.emacs.d
+    name: ".emacs.d"
