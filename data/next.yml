@@ -1,9 +1,9 @@
 ---
-- id: 189
-  date: 2018-06-30 23:00
+- id: 192
+  date: 2018-07-21 23:00
   author:
-    name: coldnew
-    url: https://github.com/coldnew
+    name: hinrik
+    url: https://github.com/hinrik
   initels:
-  - url: https://github.com/coldnew/coldnew-emacs
-    name: coldnew-emacs
+  - url: https://github.com/hinrik/dotfiles
+    name: dotfiles
