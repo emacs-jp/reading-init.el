@@ -1,9 +1,12 @@
 ---
-- id: 192
-  date: 2018-07-21 23:00
-  author:
+- id: 193
+  date: 2018-07-28 23:00
+  authpor:
     name: hinrik
     url: https://github.com/hinrik
   initels:
-  - url: https://github.com/hinrik/dotfiles
-    name: dotfiles
+  - url: https://github.com/manuel-uberti/.emacs.d
+    name: ".emacs.d"
+  author:
+    name: manuel-uberti
+    url: https://github.com/manuel-uberti
