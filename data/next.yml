@@ -1,12 +1,12 @@
 ---
-- id: 194
-  date: 2018-08-04 23:00
+- id: 195
+  date: 2018-08-11 23:00
   authpor:
     name: hinrik
     url: https://github.com/hinrik
   initels:
-  - url: https://github.com/manuel-uberti/.emacs.d
-    name: ".emacs.d"
+  - url: https://github.com/nekonenene/EmacsSet
+    name: EmacsSet
   author:
-    name: manuel-uberti
-    url: https://github.com/manuel-uberti
+    name: nekonenene
+    url: https://github.com/nekonenene
