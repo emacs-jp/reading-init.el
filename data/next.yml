@@ -1,12 +1,12 @@
 ---
-- id: 195
-  date: 2018-08-11 23:00
+- id: 196
+  date: 2018-08-18 23:00
   authpor:
     name: hinrik
     url: https://github.com/hinrik
   initels:
-  - url: https://github.com/nekonenene/EmacsSet
-    name: EmacsSet
+  - url: https://github.com/aborn/.spacemacs.d
+    name: ".spacemacs.d"
   author:
-    name: nekonenene
-    url: https://github.com/nekonenene
+    name: aborn
+    url: https://github.com/aborn
