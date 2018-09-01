@@ -1,12 +1,9 @@
 ---
-- id: 197
-  date: 2018-08-25 23:00
-  authpor:
-    name: hinrik
-    url: https://github.com/hinrik
-  initels:
-  - url: https://github.com/aborn/.spacemacs.d
-    name: ".spacemacs.d"
+- id: 198
+  date: 2018-09-01 23:00
   author:
-    name: aborn
-    url: https://github.com/aborn
+    name: pkkm
+    url: https://github.com/pkkm
+  initels:
+  - url: https://github.com/pkkm/.emacs.d
+    name: ".emacs.d"
