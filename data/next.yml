@@ -1,9 +1,9 @@
 ---
-- id: 198
-  date: 2018-09-01 23:00
+- id: 199
+  date: 2018-09-15 23:00
   author:
-    name: pkkm
-    url: https://github.com/pkkm
+    name: id774
+    url: https://github.com/id774
   initels:
-  - url: https://github.com/pkkm/.emacs.d
-    name: ".emacs.d"
+  - url: https://github.com/id774/dot_emacs
+    name: dot_emacs
