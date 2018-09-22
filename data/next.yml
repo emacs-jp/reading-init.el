@@ -1,9 +1,9 @@
 ---
-- id: 199
-  date: 2018-09-15 23:00
+- id: 200
+  date: 2018-09-22 23:00
   author:
-    name: id774
-    url: https://github.com/id774
+    name: technomancy
+    url: https://github.com/technomancy
   initels:
-  - url: https://github.com/id774/dot_emacs
-    name: dot_emacs
+  - url: https://github.com/technomancy/dotfiles
+    name: dotfiles
