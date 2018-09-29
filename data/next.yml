@@ -1,9 +1,9 @@
 ---
-- id: 200
-  date: 2018-09-22 23:00
+- id: 201
+  date: 2018-09-29 23:00
   author:
-    name: technomancy
-    url: https://github.com/technomancy
+    name: brandon-rhodes
+    url: https://github.com/brandon-rhodes
   initels:
-  - url: https://github.com/technomancy/dotfiles
-    name: dotfiles
+  - url: https://github.com/brandon-rhodes/dot-emacs
+    name: dot-emacs
