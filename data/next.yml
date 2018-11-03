@@ -1,9 +1,9 @@
 ---
-- id: 204
-  date: 2018-10-27 23:00
+- id: 205
+  date: 2018-11-03 23:00
   author:
-    name: marcowahl
-    url: https://github.com/marcowahl
+    name: Henry
+    url: https://github.com/Henry
   initels:
-  - url: https://github.com/marcowahl/.emacs.d
-    name: ".emacs.d"
+  - url: https://github.com/Henry/dot-emacs
+    name: dot-emacs
