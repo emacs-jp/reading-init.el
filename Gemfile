@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-ruby '2.2.7'
+ruby '2.4.5'
 
 gem "middleman", "~>4"
 gem "slim"
@@ -18,3 +18,5 @@ gem 'travis'
 
 gem "graphql"
 gem "graphql-client"
+
+# gem 'rubocop'
