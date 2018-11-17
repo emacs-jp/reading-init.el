@@ -1,9 +1,9 @@
 ---
-- id: 206
-  date: 2018-11-10 23:00
+- id: 207
+  date: 2018-11-17 23:00
   author:
-    name: Henry
-    url: https://github.com/Henry
+    name: pkkm
+    url: https://github.com/pkkm
   initels:
-  - url: https://github.com/Henry/dot-emacs
-    name: dot-emacs
+  - url: https://github.com/pkkm/.emacs.d
+    name: ".emacs.d"
