@@ -272,6 +272,104 @@
     url: https://github.com/bodil/emacs.d/tree/d28264cf072bb8a62459a48813d0cb30804b4f5b
   log:
     url: http://lingr.com/room/emacs/archives/2017/05/13#message-24040808
+- id: 132
+  date: 2017-05-06 23:00
+  author:
+    name: vwood
+    url: https://github.com/vwood/.emacs.d/tree/4f61fde61a74da028ecac68ed5035dbfd8dbaa4c
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/05/06#message-24029457
+- id: 131
+  date: 2017-04-29 23:00
+  author:
+    name: wasamasa
+    url: https://github.com/wasamasa/dotemacs/tree/934d0b37692d62fe9af56b52accac5bcd4445ae3
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/04/29#message-24015186
+- id: 130
+  date: 2017-04-22 23:00
+  author:
+    name: wasamasa
+    url: https://github.com/wasamasa/dotemacs/tree/934d0b37692d62fe9af56b52accac5bcd4445ae3
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/04/22#message-24006189
+- id: 129
+  date: 2017-04-15 23:00
+  author:
+    name: tomterl
+    url: https://github.com/tomterl/emacs.d/tree/1fc3437a682aa716cfe2db0e4c2e1c4be2ac9c1f
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/04/15#message-23996817
+- id: 128
+  date: 2017-04-08 23:00
+  author:
+    name: tomterl
+    url: https://github.com/tomterl/emacs.d/tree/1fc3437a682aa716cfe2db0e4c2e1c4be2ac9c1f
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/04/08#message-23982719
+- id: 127
+  date: 2017-04-01 23:00
+  author:
+    name: shamisonn
+    url: https://github.com/shamisonn/.emacs.d/tree/b7c5ab7eef3a2b2d75bed81bfb215ee33a90d8e2
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/04/01#message-23965113
+- id: 127
+  date: 2017-04-01 23:00
+  author:
+    name: yaruopooner
+    url: https://github.com/yaruopooner/my-dot-emacs/tree/d22ba28fcc8feddbee0e4639d06a2cd8dea18496
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/04/01#message-23965113
+- id: 126
+  date: 2017-03-25 23:00
+  author:
+    name: yaruopooner
+    url: https://github.com/yaruopooner/my-dot-emacs/tree/f9c81d7a27b36a463a3371a81098f38f10f75029
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/03/25#message-23950640
+- id: 125
+  date: 2017-03-18 23:00
+  author:
+    name: npostavs
+    url: https://github.com/npostavs/emacs.d/tree/4a2b8d23496efce35fd68b4d4f22cafde3b6b5a5
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/03/18#message-23935094
+- id: 124
+  date: 2017-03-11 23:00
+  author:
+    name: jkglasbrenner
+    url: https://github.com/jkglasbrenner/.emacs.d/tree/263525aae2c89dde492d116d96bdbbed1c88dd1e
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/03/11#message-23919798
+- id: 123
+  date: 2017-03-04 23:00
+  author:
+    name: jkglasbrenner
+    url: https://github.com/jkglasbrenner/.emacs.d/tree/6616836c9dc61b3437f2ab76cae75cd01cd939ca
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/03/04#message-23904868
+- id: 122
+  date: 2017-02-25 23:00
+  author:
+    name: kototama
+    url: https://github.com/kototama/.emacs.d/tree/46ba95524078f30fc0959a2d819e9f518bccaa0d
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/02/25#message-23888570
+- id: 121
+  date: 2017-02-18 23:00
+  author:
+    name: lujun9972
+    url: https://github.com/lujun9972/emacs-init/tree/6c12b613d5375bf9e852863e5da92aa15b917e78
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/02/18#message-23874096
+- id: 120
+  date: 2017-02-11 23:00
+  author:
+    name: lujun9972
+    url: https://github.com/lujun9972/emacs-init/tree/6c12b613d5375bf9e852863e5da92aa15b917e78
+  log:
+    url: http://lingr.com/room/emacs/archives/2017/02/11#message-23860776
 - id: 119
   date: 2017-02-04 22:00
   author:
