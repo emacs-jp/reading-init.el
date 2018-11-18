@@ -15,7 +15,7 @@ elsif ENV['GITHUB_GRAPHQL_TOKEN'].nil?
   exit
 end
 
-initels = ARGV.map do |url|
+initels = ARGV.map{ |url|
   url_path_split = url.split('/')
   if /^https:\/\/github.com/ =~ url
     {
@@ -31,15 +31,8 @@ initels = ARGV.map do |url|
       author_name: url_path_split[3],
       author_url: url_path_split[0..3].join('/').sub(/gist\./, ''),
     }
-  else
-    {
-      url: url,
-      name: url_path_split[-1],
-      author_name: url_path_split[4],
-      author_url: url_path_split[0..4].join('/'),
-    }
   end
-end
+}.compact
 
 # Clone
 root = File.expand_path("#{File.dirname(__FILE__)}/..")
@@ -52,25 +45,30 @@ data = Marshal.load(Marshal.dump(current_data))
 # yyyy-MM-ddTHH:mm:ss+09:00
 held_date = (Date.parse(data[0]['date']) + 7).strftime('%Y-%m-%dT23:00:%S+09:00')
 
-url = if /^https:\/\/github.com\// =~ initels[0][:url]
-        `bundle exec ./script/bin/run-query head_commit_query #{initels[0][:url]} #{held_date}`
-      else
-        initels[0][:url]
-      end
+id = data[0]['id'] + 1
 
-data.unshift(
+archive_data = initels.map do |initel|
+  url = if /^https:\/\/github.com\// =~ initel[:url]
+          `bundle exec ./script/bin/run-query head_commit_query #{initel[:url]} #{held_date}`
+        else
+          initel[:url]
+        end
   {
-    'id' => (data[0]['id'] + 1),
+    'id' => id,
     'date' => "#{(Date.parse(data[0]['date']) + 7)} 23:00",
     'author' => {
-      'name' => initels[0][:author_name],
+      'name' => initel[:author_name],
       'url' => url,
     },
     'log' => {
       'url' => data[0]['log']['url'],
     },
   }
-)
+end
+
+archive_data.map do |d|
+  data.unshift(d)
+end
 
 open(data_path, 'wb') do |f|
   YAML.dump(data, f, indentation: 2)
