@@ -1,9 +1,9 @@
 ---
 - id: 207
-  date: 2018-11-17 23:00
+  date: 2018-11-24 23:00
   author:
-    name: pkkm
-    url: https://github.com/pkkm
+    name: NicolasPetton
+    url: https://github.com/NicolasPetton
   initels:
-  - url: https://github.com/pkkm/.emacs.d
-    name: ".emacs.d"
+  - url: https://github.com/NicolasPetton/emacs.d
+    name: emacs.d

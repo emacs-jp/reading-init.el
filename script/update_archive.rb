@@ -8,7 +8,7 @@ require 'yaml'
 if ARGV.empty?
   puts "usage: #{File.basename(__FILE__)}"
   puts '--------'
-  puts "./script/#{File.basename(__FILE__)} {initel_github_urls...}"
+  puts "./script/#{File.basename(__FILE__)} {initel_github_urls...} {lingr_permalink_url}"
   exit
 elsif ENV['GITHUB_GRAPHQL_TOKEN'].nil?
   puts 'GITHUB_GRAPHQL_TOKEN must be set. Create one here: https://github.com/settings/tokens'
@@ -33,6 +33,8 @@ initels = ARGV.map{ |url|
     }
   end
 }.compact
+
+lingr_url = ARGV.last
 
 # Clone
 root = File.expand_path("#{File.dirname(__FILE__)}/..")
@@ -61,7 +63,7 @@ archive_data = initels.map do |initel|
       'url' => url,
     },
     'log' => {
-      'url' => data[0]['log']['url'],
+      'url' => lingr_url,
     },
   }
 end
