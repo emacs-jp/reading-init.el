@@ -1,9 +1,9 @@
 ---
-- id: 209
-  date: 2018-12-08 23:00
+- id: 210
+  date: 2018-12-15 23:00
   author:
-    name: aaronbieber
-    url: https://github.com/aaronbieber
+    name: cofi
+    url: https://github.com/cofi
   initels:
-  - url: https://github.com/aaronbieber/dotfiles
+  - url: https://github.com/cofi/dotfiles
     name: dotfiles
