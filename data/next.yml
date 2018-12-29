@@ -1,9 +1,9 @@
 ---
-- id: 211
-  date: 2018-12-22 23:00
+- id: 212
+  date: 2018-12-29 23:00
   author:
-    name: cofi
-    url: https://github.com/cofi
+    name: femtogram
+    url: https://github.com/femtogram
   initels:
-  - url: https://github.com/cofi/dotfiles
-    name: dotfiles
+  - url: https://github.com/femtogram/emacs-config
+    name: emacs-config
