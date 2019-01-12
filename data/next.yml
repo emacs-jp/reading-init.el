@@ -1,9 +1,9 @@
 ---
-- id: 212
-  date: 2018-12-29 23:00
+- id: 213
+  date: 2019-01-12 23:00
   author:
-    name: femtogram
-    url: https://github.com/femtogram
+    name: chrisbarrett
+    url: https://github.com/chrisbarrett
   initels:
-  - url: https://github.com/femtogram/emacs-config
-    name: emacs-config
+  - url: https://github.com/chrisbarrett/.emacs.d
+    name: ".emacs.d"
