@@ -1,9 +1,9 @@
 ---
-- id: 215
-  date: 2019-01-26 23:00
+- id: 216
+  date: 2019-02-02 23:00
   author:
-    name: chrisbarrett
-    url: https://github.com/chrisbarrett
+    name: alexott
+    url: https://github.com/alexott
   initels:
-  - url: https://github.com/chrisbarrett/.emacs.d
-    name: ".emacs.d"
+  - url: https://github.com/alexott/emacs-configs
+    name: emacs-configs
