@@ -1,9 +1,9 @@
 ---
-- id: 216
-  date: 2019-02-02 23:00
+- id: 217
+  date: 2019-02-09 23:00
   author:
-    name: alexott
-    url: https://github.com/alexott
+    name: a-schaefers
+    url: https://github.com/a-schaefers
   initels:
-  - url: https://github.com/alexott/emacs-configs
-    name: emacs-configs
+  - url: https://github.com/a-schaefers/dot-emacs
+    name: dot-emacs
