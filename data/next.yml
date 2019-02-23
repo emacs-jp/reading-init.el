@@ -1,9 +1,9 @@
 ---
-- id: 218
-  date: 2019-02-16 23:00
+- id: 219
+  date: 2019-02-23 23:00
   author:
-    name: a-schaefers
-    url: https://github.com/a-schaefers
+    name: VolterMiao
+    url: https://github.com/VolterMiao
   initels:
-  - url: https://github.com/a-schaefers/dot-emacs
-    name: dot-emacs
+  - url: https://github.com/VolterMiao/.emacs.d
+    name: ".emacs.d"
