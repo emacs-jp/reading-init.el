@@ -1,9 +1,9 @@
 ---
-- id: 219
-  date: 2019-02-23 23:00
+- id: 220
+  date: 2019-03-02 23:00
   author:
-    name: VolterMiao
-    url: https://github.com/VolterMiao
+    name: bwolf
+    url: https://github.com/bwolf
   initels:
-  - url: https://github.com/VolterMiao/.emacs.d
-    name: ".emacs.d"
+  - url: https://github.com/bwolf/dot-emacs
+    name: dot-emacs
