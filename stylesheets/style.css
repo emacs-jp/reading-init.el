@@ -1,0 +1,67 @@
+body {
+  padding-top: 60px; }
+
+footer {
+  margin-bottom: 20px; }
+
+tt {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 0 4px;
+  padding: 0 4px; }
+
+.exo {
+  font-family: "Exo"; }
+
+.exo-normal {
+  font-weight: 400; }
+
+.exo-bold {
+  font-weight: 600; }
+
+.exo-brand {
+  font-weight: 800; }
+
+.bold {
+  font-weight: bold; }
+
+.left {
+  text-align: left; }
+
+.center {
+  text-align: center; }
+
+.right {
+  text-align: right; }
+
+.wide-line {
+  line-height: 200%; }
+
+.fa-ul > li {
+  margin-bottom: 10px; }
+
+.masthead {
+  min-height: 20px;
+  padding: 19px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-image: url("/reading-init.el/images/graphy.png");
+  background-repeat: repeat;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); }
+
+table > thead > tr > th,
+table > tbody > tr > th,
+table > tfoot > tr > th,
+table > thead > tr > td,
+table > tbody > tr > td,
+table > tfoot > tr > td,
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  border-color: #ddd; }
